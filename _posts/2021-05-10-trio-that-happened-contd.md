@@ -20,7 +20,8 @@ As per the itenerary, we were supposed to go to Jodhpur first, which is the sout
 
 Around 08:00 p.m. we reached Baroda railway station. The dhokla there was pretty cheap, I felt it was good given the taste. _Kabhi gaye tho, try karke dekh lena_. 
 
-<img src="/img/post2/Baroda_rlwy_stn.jpeg" alt="Baroda Railway Station" title="Railway station Baroda" height = "500 px" width = "400 px"/>
+<center><img src="/img/post2/Baroda_rlwy_stn.jpeg" alt="Baroda Railway Station" title="Railway station Baroda" height = "500 px" width = "400 px" ></center>
+
 
 
 
