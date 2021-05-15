@@ -40,5 +40,28 @@ There was a musuem of heritage cars on the outer side, so we decided to have a l
 
 <center><img src="/img/post3/ub_friends.jpeg" alt=" " title=" " height = "400 px" width = "500 px" ></center>
 
-<center><em>All in one frame, except MB(because he's with the camera)</em></center>
+<center><em>All friends in one frame, except MB(because he's with the camera)</em></center>
 
+We took an auto to the next location. It was _Toorji ka jhalra_. It's a well, not a conventional well. In Rajasthan, they have different methods of rainwater harvesting, this is one of them. I guess they don't use it much now, but I saw people fishing there. 
+
+<center><img src="/img/post3/tkj.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
+<center><em>Toorji ka jhalra</em></center>
+
+The steps were pretty steep and give the feeling that you might fall while walking down them. There wasn't anything much to see here, but there was a place to sit, so we decided to take some rest. We all were sitting together, gossiping, MB took out _mysorepak_ which he had bought from his home(_bohot tasty thaa!_). And then all of a sudden Mi saw a squirrel and he began running after it. I think he was trying to catch it? IDK... Honestly, no trip is complete without Mi doing some epic shit, and there's a lot more to come(spoiler alert!). It was afternoon, we decided to have a small walk around, market was nearby so we would get to eat something as well.
+
+While we were walking, I saw a guy on a bike dashed into another guy with a bike. I was expecting a fight to pop up, to my surprise, the guy who was at fault, just got up and said _"koi baat nahi"_ and left. I witnessed almost 3-4 such small accidents in Rajasthan. Nevermind, but people are horrible at following driving rules in Rajasthan. Which reminds me, why Ceat says "streets are filled with idiots!". 
+
+The small streets are preety. 
+
+<center><img src="/img/post3/ss.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
+<center><em>Street view</em></center>
+
+We entered a small restaurant while walking as we were thirsty. If you have seen Weasely's house, we were in Ron's room. In fact we were above Ron's room. It was open, we could see the pretty view of Mehrangadh fort. It's simply enormous, you need to stretch your neck atleast 270 degrees to get a full view. 
+
+<center><img src="/img/post3/hilltop.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
+<center><em>View from the top</em></center>
+
+We ordered a lemon soda since we were thirsty. It smelled like H2S, if you ever worked in Chemistry lab, you know what I mean. Atleast I left it untouched after that. 
