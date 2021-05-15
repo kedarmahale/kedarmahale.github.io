@@ -14,12 +14,12 @@ It was still morning, Rajasthan is pretty cold in December. Chilly air was blowi
 
 SJ and SM decided to order _pyaaz kachori_, rest all and indecisive me ordered _chhole bhature_, _aur uss_ _chhole bhauture ki mai kya hi tarrif karu, pyaar hi ho gaya!!_. I guess the best one I ever had. 
 
-<center><img src="/img/post3/chole_bhature.jpeg" alt="Chhole Bhature" title="Chhole Bhature" height = 400 px" width = "500 px" ></center>
+<center><img src="/img/post3/chole_bhature.jpeg" alt="Chhole Bhature" title="Chhole Bhature" height = "400 px" width = "500 px" ></center>
 
 <center><em>Chhole bhature (in short pyaar)</em></center>
 
 
-<center><img src="/img/post3/badami_aloo_puri.jpeg" alt="Badami Aloo Puri" title="Badami Aloo Puri" height = 400 px" width = "600 px" ></center>
+<center><img src="/img/post3/badami_aloo_puri.jpeg" alt="Badami Aloo Puri" title="Badami Aloo Puri" height = "400 px" width = "600 px" ></center>
 
 <center><em>Badami aloo puri</em></center>
 
