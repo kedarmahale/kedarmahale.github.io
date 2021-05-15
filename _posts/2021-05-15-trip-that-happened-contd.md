@@ -44,7 +44,7 @@ There was a musuem of heritage cars on the outer side, so we decided to have a l
 
 We took an auto to the next location. It was _Toorji ka jhalra_. It's a well, not a conventional well. In Rajasthan, they have different methods of rainwater harvesting, this is one of them. I guess they don't use it much now, but I saw people fishing there. 
 
-<center><img src="/img/post3/tkj.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+<center><img src="/img/post3/tkj.jpeg" alt=" " title=" " height = "500 px" width = "400 px" ></center>
 
 <center><em>Toorji ka jhalra</em></center>
 
@@ -54,13 +54,13 @@ While we were walking, I saw a guy on a bike dashed into another guy with a bike
 
 The small streets are preety. 
 
-<center><img src="/img/post3/ss.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+<center><img src="/img/post3/ss.jpeg" alt=" " title=" " height = "500 px" width = "400 px" ></center>
 
 <center><em>Street view</em></center>
 
 We entered a small restaurant while walking as we were thirsty. If you have seen Weasely's house, we were in Ron's room. In fact we were above Ron's room. It was open, we could see the pretty view of Mehrangadh fort. It's simply enormous, you need to stretch your neck atleast 270 degrees to get a full view. 
 
-<center><img src="/img/post3/hilltop.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+<center><img src="/img/post3/hilltop.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
 
 <center><em>View from the top</em></center>
 
