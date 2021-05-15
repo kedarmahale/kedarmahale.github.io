@@ -60,7 +60,7 @@ The small streets are preety.
 
 We entered a small restaurant while walking as we were thirsty. If you have seen Weasely's house, we were in Ron's room. In fact we were above Ron's room. It was open, we could see the pretty view of Mehrangadh fort. It's simply enormous, you need to stretch your neck atleast 270 degrees to get a full view. 
 
-<center><img src="/img/post3/hilltop.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+<center><img src="/img/post3/hilltop.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
 
 <center><em>View from the top</em></center>
 
