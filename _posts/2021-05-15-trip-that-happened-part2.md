@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The trip that happened (contd..)........"
+title: "The trip that happened (part - 2)........"
 date: 2021-05-15
 ---
 
