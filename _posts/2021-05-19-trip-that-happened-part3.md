@@ -17,7 +17,7 @@ So, heading to our next place to visit...Mandore gardens it was. We took a cab, 
 <center><em>View of Mandore gardens</em></center>
 
 Almost all of them were similar with the same kind of architecture. Each temple was surrounded by some grass, like a garden with few small trees. A typical Rajasthani-style traditional wedding was happening in one of the temples, which was quite a normal temple as compared to all others.
-<center><img src="/img/post4/1.jpeg" alt="Mandoore gardens" title="Mandoore gardens" height = "500 px" width = "300 px" ></center>
+<center><img src="/img/post4/1.jpeg" alt="Mandoore gardens" title="Mandoore gardens" height = "500 px" width = "400 px" ></center>
 
 <center><em>View of a wedding</em></center>
 
