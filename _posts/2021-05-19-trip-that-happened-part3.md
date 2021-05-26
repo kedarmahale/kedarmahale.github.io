@@ -48,14 +48,21 @@ Our last place for the day and in Jodhpur was the enormous **Mehrangarh fort**. 
 On entering the fort, I saw a group of people sitting towards the side in a corner playing traditional Rajasthani musical instruments. The music flowing out of them was really pretty. I wouldn't mind joining them, but honestly, I don't want to spoil their art. As we went inside, there were so many things to look at. The usual museum stuff with all the artifacts, their clothes, and many more. Their royal rooms, which have now been renovated to look like new. From the height of this fort, you can have a look at the entire city. And looking at the buildings and houses around, you realize why it is called "Blue City". By the time we were done looking around this fort, it was almost evening. 
 
 <center><img src="/img/post4/6.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+<center><img src="/img/post4/7.jpeg" alt=" " title=" " height = "500 px" width = "350 px" ></center>
 
 The sunset over this fort looks really pretty, as mentioned in the previous part. We managed to get some really good pictures of the sunset.
 
 It was almost dark and we all were hungry. The place where we were was probably at the peak of the city. So walking somewhere wasn't an option. Also Ola or Uber isn't very responsive there, so we had to make an auto there and go to a place to eat. Also, if you're not sure of the name of the place what it is called locally, it's always better to get it confirmed by a local person. Unfortunately, we were smart enough to use maps (_haa phir see_) to navigate the auto driver to the place. Please don't trust maps in such situations, because you will end up paying more to the auto as we did. The _auto wale uncle_ got annoyed at us for taking him to a place which he knew, according to him in a long route so he was really frustrated at us, and I remember HP telling him _rehne do na uncle, bacche hai hum_.
 
-<center><img src="/img/post4/7.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
  
-There is a place called _Kuchaman Haweli_, which is like a restaurant. Almost every place there has space on the rooftop to eat. So we decided to go there. There was a beautiful view of _Mehrangarh fort_ from this rooftop, and the night lights were making it look more pretty. MB looked at the menu and there was a dish name **_pee pulav_** and he showed me. Adventurous us, we decided to order it. And we realized after our order came that it was a spelling mistake of _pea pulav_. _Koi baat nahi yaar, ho jaata hai_. And in between all this, one of us got a notification, that the results of the previous sem were out. Our exams were just over, and our results are published online. So, if you know someone's birth date, you can see that person's result. 
+There is a place called _Kuchaman Haweli_, which is like a restaurant. Almost every place there has space on the rooftop to eat. So we decided to go there. There was a beautiful view of _Mehrangarh fort_ from this rooftop, and the night lights were making it look more pretty.
+<center><img src="/img/post4/9.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+
+ MB looked at the menu and there was a dish name **_pee pulav_** and he showed me. Adventurous us, we decided to order it. And we realized after our order came that it was a spelling mistake of _pea pulav_. _Koi baat nahi yaar, ho jaata hai_. 
+ 
+ <center><img src="/img/post4/8.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+
+ And in between all this, one of us got a notification, that the results of the previous sem were out. Our exams were just over, and our results are published online. So, if you know someone's birth date, you can see that person's result. 
 
 Fortunately, we all got good grades. _Ab trip me aur maja ayega na bidu?_. The next day at 06:30 a.m. we were supposed to catch a train for Jaipur. We asked the hotel people to arrange some transport for us to the railway station.
 
