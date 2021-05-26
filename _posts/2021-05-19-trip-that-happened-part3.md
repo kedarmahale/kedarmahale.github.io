@@ -10,13 +10,14 @@ Tired from the previous day, I got up in my bed early in the morning. Yes, I get
 
 So, heading to our next place to visit...Mandore gardens it was. We took a cab, and luckily we all reached safely. Mandore gardens as the name suggests are a garden, with many and when I say many, I mean many old temples. A beautiful garden which is maintained pretty well. We wandered around looking within the temples, they were not very clean from within and a bit stinky to be honest. They were not usual temples though, there was no idol inside them, also few of them had steps so that you could access the higher floor. The access to these steps was closed, so we couldn't go up. 
 
-<center><img src="/img/post4/1.jpeg" alt="Mandoore gardens" title="Mandoore gardens" height = "500 px" width = "300 px" ></center>
+
+<center><img src="/img/post4/2.jpeg" alt=" " title=" " height = "500 px" width = "500 px" ></center>
+
 
 <center><em>View of Mandore gardens</em></center>
 
 Almost all of them were similar with the same kind of architecture. Each temple was surrounded by some grass, like a garden with few small trees. A typical Rajasthani-style traditional wedding was happening in one of the temples, which was quite a normal temple as compared to all others.
-
-<center><img src="/img/post4/2.jpeg" alt=" " title=" " height = "500 px" width = "500 px" ></center>
+<center><img src="/img/post4/1.jpeg" alt="Mandoore gardens" title="Mandoore gardens" height = "500 px" width = "300 px" ></center>
 
 <center><em>View of a wedding</em></center>
 
