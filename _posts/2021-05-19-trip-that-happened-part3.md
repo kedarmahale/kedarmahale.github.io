@@ -60,7 +60,7 @@ There is a place called _Kuchaman Haweli_, which is like a restaurant. Almost ev
 
  MB looked at the menu and there was a dish name **_pee pulav_** and he showed me. Adventurous us, we decided to order it. And we realized after our order came that it was a spelling mistake of _pea pulav_. _Koi baat nahi yaar, ho jaata hai_. 
  
- <center><img src="/img/post4/8.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+ <center><img src="/img/post4/8.jpeg" alt=" " title=" " height = "300 px" width = "250 px" ></center>
 
  And in between all this, one of us got a notification, that the results of the previous sem were out. Our exams were just over, and our results are published online. So, if you know someone's birth date, you can see that person's result. 
 
