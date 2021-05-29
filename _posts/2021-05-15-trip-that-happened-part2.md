@@ -89,3 +89,7 @@ It was a pretty place. It was almost evening and we could see the sunset, it was
 It was already dark, so we called it a day!!! The first day of the trip comes to an end!
 
 Let's continue the trip in the next post!
+
+<a href="https://kedarmahale.github.io/blog/2021/05/19/trip-that-happened-part3">Link to next post </a>
+
+<a href="https://kedarmahale.github.io/blog/2021/05/10/trip-that-happened-part1">Link to previous post </a>

@@ -67,3 +67,7 @@ There is a place called _Kuchaman Haweli_, which is like a restaurant. Almost ev
 Fortunately, we all got good grades. _Ab trip me aur maja ayega na bidu?_. The next day at 06:30 a.m. we were supposed to catch a train for Jaipur. We asked the hotel people to arrange some transport for us to the railway station.
 
 Let us continue our journey in the next post. Stay tuned!
+
+<a href="https://kedarmahale.github.io/blog/2021/05/27/trip-that-happened-part4">Link to next post </a>
+
+<a href="https://kedarmahale.github.io/blog/2021/05/15/trip-that-happened-part2">Link to previous post </a>

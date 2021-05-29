@@ -33,5 +33,7 @@ So finally, we reached our destination. Still shaky like a train, walking around
 Let us continue in the next post!! Stay tuned!
 
 
+<a href="https://kedarmahale.github.io/blog/2021/05/15/trip-that-happened-part2">Link to next post </a>
 
+<a href="https://kedarmahale.github.io/blog/2021/05/09/trip-that-happened">Link to previous post </a>
 
