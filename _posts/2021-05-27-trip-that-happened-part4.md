@@ -28,7 +28,7 @@ The entrance of this place is a bit difficult to find, but we managed to find it
 So we entered this place, it was crowded and it was not as big as the other places we visited till now. It was a bit congested. There were two levels and on the ground floor, there was a water fountain in the middle.
 
 
-<center><img src="/img/post5/hm2.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
+<center><img src="/img/post5/hm2.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
 
 <center><em>Hawa Mahal </em></center>
 
