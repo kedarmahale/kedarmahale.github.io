@@ -20,7 +20,7 @@ Standing near the doorway of a train when it's going fast, with air rushing on y
 
 As per the itinerary, our first location was Jodhpur, which is the most south of all the locations, followed by Jaipur, Ajmer, and Udaipur. We had booked a hotel on an online platform for a stay at Jodhpur. The hotels in Rajasthan were having some differences with this online platform and as a result, they canceled the hotel. We were supposed to reach the next morning, no stay? where do we go? Let's see that later, that was the conclusion of our discussion.
 
-Around 08:00 p.m. we reached Baroda railway station. We had to resort to a _Dhokla_ as our night meal. It was nice given its price. _Kabhi gaye tho, try karke dekh lena_. 
+Around 08:00 p.m. we reached Ahemdabad railway station. We had to resort to a _Dhokla_ as our night meal. It was nice given its price. _Kabhi gaye tho, try karke dekh lena_. 
 
 <center><img src="/img/post2/Baroda_rlwy_stn.jpeg" alt="Baroda Railway Station" title="Railway station Baroda" height = "500 px" width = "400 px" ></center>
 

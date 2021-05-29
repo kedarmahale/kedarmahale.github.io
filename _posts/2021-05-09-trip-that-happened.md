@@ -21,3 +21,5 @@ We were in the final year of engineering, one of the most beautiful years of eng
 After a long wait, we were all set to go! The train was scheduled for 08 December 2019 at 04:00 a.m. I was very excited about this trip, to be honest, I am always excited about trips.
 
 Let's continue with the journey in the next post! Stay tuned!!
+
+<a href="https://kedarmahale.github.io/blog/2021/05/10/trip-that-happened-part1">Link to next post </a>

@@ -6,7 +6,7 @@ date: 2021-05-15
 
 ## Padharo mhaaro des
 
-We reached Jodhpur, managed to find a place to stay. How? HH(our travel expert) had booked a hotel through an online platform, we went and checked it first. It wasn't so good. But then HH and HP decided to have a toss, if it was in favor of HH, we would stay there or else we go to a place that HP choose. Latter turned out to be true, the hotel wasn't that bad after all. 
+We reached Jodhpur, managed to find a place to stay. How? HP(our travel expert) had booked a hotel through an online platform, we went and checked it first. It wasn't so good. But then HH and HP decided to have a toss, if it was in favor of HP, we would stay there or else we go to a place that HH choose. Latter turned out to be true, the hotel wasn't that bad after all. 
 
 ### Day 1, Jodhpur
 
