@@ -83,5 +83,6 @@ After we were done eating, we went to a movie theatre. There is this place calle
 
 Our first day in Jaipur came to an end here. Let us continue the journey in the next post.
 
+<a href="https://kedarmahale.github.io/blog/2021/05/31/trip-that-happened-part5">Link to next post </a>
 
 <a href="https://kedarmahale.github.io/blog/2021/05/19/trip-that-happened-part3">Link to previous post </a>
