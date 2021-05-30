@@ -55,7 +55,7 @@ There was an exhibition inside the fort which was accessible if you pay a fee, w
 <center><img src="/img/post6/nf.jpeg" alt=" " title=" " height = "300 px" width = "400 px" ></center>
 <center><em> View from Nahargarh fort</em></center>
 
-Here you could see most of the houses painted red and so they call it "The Pink City". If I am not wrong, this is the fort where a shot from the film _Rand de basanti_ was shot. The pond shown in the film, which we saw was in really bad condition. The water was stagnant, and it was stinky. We looked around, clicked a lot of pictures, and decided to return. It was almost evening but wasn't dark yet. 
+Here you could see most of the houses painted red and so they call it "The Pink City". If I am not wrong, this is the fort where a shot from the film _Rang de basanti_ was shot. The pond shown in the film, which we saw was in really bad condition. The water was stagnant, and it was stinky. We looked around, clicked a lot of pictures, and decided to return. It was almost evening but wasn't dark yet. 
 
 <center><img src="/img/post6/nf1.jpeg" alt=" " title=" " height = "300 px" width = "400 px" ></center>
 <center><em> The pond</em></center>
