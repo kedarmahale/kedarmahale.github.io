@@ -57,4 +57,4 @@ This journey was around 5 hours, and unlike all other journeys, I slept during t
 
 Let us continue our journey in the next post. Stay tuned!
 
-<a href="https://kedarmahale.github.io/blog/2021/05/31/trip-that-happened-part5">Link to prexious post </a>
+<a href="https://kedarmahale.github.io/blog/2021/05/31/trip-that-happened-part5">Link to previous post </a>
