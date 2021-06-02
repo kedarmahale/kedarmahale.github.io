@@ -33,7 +33,7 @@ After this, he took us to _Pushkar lake_. Honestly, if you google the name of th
 
  I decided to sleep in the taxi as I wasn't feeling very well. I woke up midway when we were about to reach _Taragarh_. The road is mountainous with twists and turns, not meant for amateur drivers. There is a _Dargah_ there. I was just resting along with MB in the taxi. The place seemed a bit scary, the taxi driver told my other friends not to leave any stuff behind in the taxi. There is a possibility of things getting stolen there.
 
- <center><img src="/img/post7/tgd1.jpeg" alt=" " title=" " height = "350 px" width = "500 px" ></center>
+<center><img src="/img/post7/tgd1.jpeg" alt=" " title=" " height = "300 px" width = "500 px" ></center>
 <center><em> The road view</em></center>
 
 I saw a camel tied to a pole. It seemed as though its owner did not take good care of him. I was feeling really bad for him. It felt worse because, despite knowing that his condition wasn't good, I couldn't do anything. Animal cruelty is still a thing that needs to be tackled. 
