@@ -56,3 +56,5 @@ The happiness index of the group was just down, we were frustrated. I had never 
 This journey was around 5 hours, and unlike all other journeys, I slept during this one. We reached Udaipur at 10:30 p.m. and I was really hungry now since I skipped the lunch. There was a canteen at the railway station. We just went and sat there. As per their system, we need to buy a coupon and then wait for the order to come. Of course, what else do you expect there? It is not your usual 5-star restaurant. Mi who entered late was unaware of this and just sat and waited for a waiter to attend him. After some time one of us informed him that he has to take a coupon. He was so pissed and said _"I will give a bad rating to this place"_. _Mujhe tho nahi lagta unhe ratings se koi farak padta hoga_. Anyways, there's more to come. 
 
 Let us continue our journey in the next post. Stay tuned!
+
+<a href="https://kedarmahale.github.io/blog/2021/05/31/trip-that-happened-part5">Link to prexious post </a>

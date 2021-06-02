@@ -84,3 +84,5 @@ Since I had some shopping to do, I along with MB and for a little (or maybe a lo
 Let us continue the journey in the next post. Stay tuned!
 
 <a href="https://kedarmahale.github.io/blog/2021/05/27/trip-that-happened-part4">Link to previous post </a>
+
+<a href="https://kedarmahale.github.io/blog/2021/06/04/trip-that-happened-part6">Link to next post </a>
