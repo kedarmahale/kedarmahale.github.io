@@ -13,7 +13,7 @@ We had prebooked three ola cabs, which were waiting for us at the hotel entrance
 
 I and UU were sort of excited the previous day that we will be going to Ajmer. Let us see what our excitement turns out to be. This journey was rather the shortest of all. Our seats in the bogey were right next to the door, so whenever someone would open the door, we would feel the wrath of the cold. At 04:30 p.m., we had another train to catch for our next location, Udaipur. And since we were supposed to be in Ajmer for such a short time, we decided to leave our bags in the cloakroom of the railway station and roam around the city. 
 
-When we went to the cloakroom to deposit our bags. The cloakroom guy was pretty rude. They do not accept bags without locks, luckily, my bag had a lock. But some of us did not have one. There was a guy selling locks there, so they bought one each from him. 
+The cloakroom guy was pretty rude. They do not accept bags without locks, luckily, my bag had a lock. But some of us did not have one. There was a guy selling locks there, so they bought one each from him. 
 
 As we stepped outside the railway station, the reality struck. Ajmer wasn't anything like I imagined, not even close. Moreover, to add to it, rains had made it even worse. The roads were all muddy, the soil there is black,  it had mixed with water and looked like hot chocolate, except it was not hot. 
 
