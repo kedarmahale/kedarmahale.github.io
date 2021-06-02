@@ -47,7 +47,7 @@ I, MB, SJ, and Mi decided not to go to the _Dargah_ as we were just not interest
 
 _Agar mumkin hota tho subscripton khareed leta uss dukaan kaaa_. I and Mi went there with our old, worn-out 10 Rs. note which he willingly accepted and paid us 8 Rs. in return. _Utna bura nahi thaa sauda_. After this, we went to the railway station, collected all our bags and we were waiting for others to return from _Dargah_. It was almost time for the train, they were nowhere to be seen. As we all know, trains are always late, except when you need them to be. It was just 5 minutes until the trains' arrival. We decided to go to the platform where the train would arrive. Just four of us had to carry the entire luggage climbing steps to hop from one platform to another, luckily they all managed it in time and we were able to board the train.
 
-The happiness index of the group was just down, we were frustrated. I never saw HP in such a mood before. To be able to relate better, I decided to plot a graph.
+The happiness index of the group was just down, we were frustrated. I had never seen HP in such a mood before. To be able to relate better, I decided to plot a graph.
 
  <center><img src="/img/post7/ajmer graph.jpeg" alt=" " title=" " height = "300 px" width = "400 px" ></center>
 <center><em> </em></center>
