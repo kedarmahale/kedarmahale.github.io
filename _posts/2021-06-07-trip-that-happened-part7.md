@@ -86,3 +86,7 @@ This was indeed the best day of this trip and to be able to relate better, I plo
 <center><em> </em></center>
 
 Let us continue the journey in the next post. Stay tuned!
+
+<a href="https://kedarmahale.github.io/blog/2021/06/11/trip-that-happened-part8">Link to next post </a>
+
+<a href="https://kedarmahale.github.io/blog/2021/06/04/trip-that-happened-part6">Link to previous post </a>
