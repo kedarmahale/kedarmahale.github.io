@@ -15,7 +15,7 @@ We did not have much to do today, few of us wanted to visit an animal shelter an
 
 Then we decided we should visit _Sahelion ki Bari_. _Sahelion ki bari_ is a splendid garden with a water fountain right in the middle, many flowering trees and, a few white and red blossoms. This garden was pretty, we spent some time there chilling. It was mentioned there, this place was meant for the entertainment of the royals. I guess it must have served its purpose pretty well.
 
-<center><img src="/img/post9/shb.jpeg" alt=" " title=" " height = "300 px" width = "400 px" ></center>
+<center><img src="/img/post9/shb.jpeg" alt=" " title=" " height = "300 px" width = "500 px" ></center>
 <center><em> </em></center>
 
 After this, we went to _Sajjangarh_. This place has a palace on the mountain top which is called _Sajjangarh monsoon palace_. Before, you climb the mountain (there are special vehicles which visit there), there is a zoo. HP, HH, and UU wanted to explore the _Monsoon palace_, so they took the tickets and went there. The rest of us visited the zoo. Our main motive was to chill. We saw only a few animals there, and after a while we were bored. Turns out that the zoo was too big and also we were not interested. We sat on a bench and everyone got busy with their phones, **except me**. It is obvious, I don't get any calls also I wasn't carrying earphones. So I just had to look around and somehow pass my time.
@@ -24,7 +24,7 @@ HP, HH, and UU returned by noon, till then we were waiting for them. After havin
 
 <center><img src="/img/post9/samosa.jpeg" alt=" " title=" " height = "400 px" width = "300 px" ></center>
 <center><em> </em></center>
-<center><img src="/img/post9/gj.jpeg" alt=" " title=" " height = "300 px" width = "400 px" ></center>
+<center><img src="/img/post9/gj.jpeg" alt=" " title=" " height = "300 px" width = "500 px" ></center>
 <center><em> The legends who don't need an intro </em></center>
 
 It was dinner time and we had a train to catch at 10:30 p.m. for Mumbai. Mi believed that we should eat in Dominos, while few others wanted to eat at McD. Turns out that McD is a bit far, so we went to Dominos. This was "the" pizza I ever had. It tasted nothing different than bread on butter. _Paisa barbaad!_. We picked up our bags from the hotel, where we had left them. It was almost time for us to leave Udaipur and Rajasthan as well.
@@ -74,7 +74,7 @@ Here is a list of all the places that we visited.
     c. Rustom\
     d. Marine drive
 
-Consider giving me a feedback or anything that you would like to share by writing to me <li><a href="mailto:kedarmahale1@gmail.com">here</a></li>. I would appreciate your valuable feedback! This series has come to an end, stay tuned I'll come back with more! Till then, you could read <a href="https://kedarmahale.github.io/blog/2021/05/09/trip-that-happened">this </a> series again?
+Consider giving me a feedback or anything that you would like to share by writing to me <a href="mailto:kedarmahale1@gmail.com">here</a>. I would appreciate your valuable feedback! This series has come to an end, stay tuned I'll come back with more! Till then, you could read <a href="https://kedarmahale.github.io/blog/2021/05/09/trip-that-happened">this </a> series again?
 
 
 
