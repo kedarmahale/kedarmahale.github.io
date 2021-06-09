@@ -2,6 +2,7 @@
 layout: post
 title: "The trip that happened........"
 date: 2021-05-09
+categories: Travel blogs
 ---
 
 Many times we come across people saying, _"let's go on a trip"_, _"chalo na yaar, Goa chalte haii!!"_. We know what happens next, yeah! you guessed it right!! Such trips never happen. I and a group of friends from my college have a similar story, except the ending, which you must have guessed by now from the title of this post.
