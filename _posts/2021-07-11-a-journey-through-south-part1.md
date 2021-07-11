@@ -45,8 +45,8 @@ After this, we went to our next place. It was a railway museum. It's called _Mys
 
 Most of us have read about the _Vrundavan garden_ from school textbooks. I was excited to check out whether the description matches in reality, and it does. It's even prettier in person. It is an enormous garden spread on the banks of the dam. The entry towards the dam is restricted, so we could not go there. There are many water fountains, a lake in the middle, overall it is pretty. There is a fountain show scheduled every night at 07:00 p.m., so we waited for it. I could see people there being very excited about it. Honestly, I felt it was just a normal fountain show. After this, we decided to leave. It was almost dark, we came towards the bus stop, there weren't many buses to go back to the city. 
 
-<center><img src="/img/post10/8.jpeg" alt=" " title=" " height = "400 px" width = "300 px" ></center>
-<center><em> </em></center>
+<center><img src="/img/post10/8.jpeg" alt=" " title=" " height = "500 px" width = "400 px" ></center>
+<center><em> Vrundavan garden </em></center>
 
 After waiting for a while, a bus came. There was a huge rush of people to get on the bus. We were all able to get a seat. We witnessed people fighting over a seat, with one man shouting "_touch kyu kiya!?_" and the other man shouting back at him. It had been a very long day, we reached the city bus stand and somehow we were very tired from all the walking that we did. HH wanted to have dinner at a fancy restaurant, so he suggested we walk for another small distance to reach a restaurant of his choice (note - his choice is very good). SJ was so pissed after walking for a while but then felt good after reaching the restaurant. It was on the top-most floor of a tall building and they allowed us to sit in a separate room. It was a perfect end to a day.
 
