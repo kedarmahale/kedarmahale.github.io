@@ -52,3 +52,4 @@ After waiting for a while, a bus came. There was a huge rush of people to get on
 
 Stay tuned for the next part!
 
+<a href="https://kedarmahale.github.io/blog/2021/06/18/a-journey-through-south">Link to previous post </a>

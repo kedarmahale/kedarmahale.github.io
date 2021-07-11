@@ -21,3 +21,5 @@ At night, the bus halted somewhere for dinner. As usual, Mi wasn't impressed wit
 It was getting cold on the bus due to the A/C. The bus halted again at _Shimoga_. Since it was cold on the bus, we decided to get down. Little did we know, A/C temperature was higher than the temperature outside. It was freaking cold outside, and I was shivering. I quickly got back on the bus. I was excited about reaching _Mysore_ but somehow I managed to sleep. We had reached _Mysore_ when someone calls my name and I wake up. We were actually in _Mysore_ and the bus managed to reach exactly at 06:00 a.m. However, the _Mysore_ I saw in my dream looked better than the actual one, never mind. 
 
 Let us continue the journey in the next post. Stay tuned!
+
+<a href="https://kedarmahale.github.io/blog/2021/07/11/a-journey-through-south-part1">Link to next post </a>
