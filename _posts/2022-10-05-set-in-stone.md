@@ -24,46 +24,60 @@ We got freshened up, went to a nearby restaurant to eat breakfast, and then afte
 
 
 <center><img src="/img/post12/01.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
+
 <center><img src="/img/post12/02.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
+
 <center><em>Breakfast</em></center>
 
 
 It was the beginning of April, and as the day was passing, it was getting hotter. We started by visiting the _Vitthal mandir_, ruins of which remain now after facing attacks in the past. It's located on top of a hill, which is accessible only by electric golf carts, any other form of vehicle is prohibited there. It took us around 5 mins to reach the ruins of the temple. It contains the iconic stone chariot which is featured on INR 50 note. After spending some time there we went to visit the next monument which is called _Queens bath_. It is a big pool-like structure that is again carved out of stone, however, it was dry and did not contain water. Next, we visited _Mahanavami dibba_ which is an enormous stage-like structure also carved out of stone which I guess was used in the olden days during the festival of Dusshera. 
 
 <center><img src="/img/post12/03.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
+
 <center><em>On the way to Vitthal mandir</em></center>
+
 <center><img src="/img/post12/04.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
+
 <center><em>A good looking tree</em></center>
 
 <center><img src="/img/post12/05.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
 <center><em>Stone chariot</em></center>
 
 <center><img src="/img/post12/qb.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
 <center><em>Queen's bath</em></center>
 
 <center><img src="/img/post12/06.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
 <center><em>Mahanavami dibba</em></center>
 
 Just near to this, is a step well which is called _Pushkarni_, which was used to store water. It was almost afternoon and we could see the effects of the sun in summer in Hampi. It was getting extremely hot. 
 
 <center><img src="/img/post12/p.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
+
 <center><em>Pushkarni</em></center>
 
 Next, we visited _Hazara Rama temple_. The walls of this temple contain stone carvings that depict the story of the city of Hampi. Almost all temples have similar architecture, all carved out of stone. After this, we visited the _lotus mahal_ which is a small monument, entry inside which is restricted. Near to this are the elephant stables, which are empty now. They are huge structures that were used in the olden days to house the elephants. 
 
 <center><img src="/img/post12/07.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
 <center><em>Lotus mahal</em></center>
 
 Next, we visited the _underground Shiva temple_. It is not that deep under the ground, only a part of it is beneath the surface, it was quite dark inside. Then we were on the way to visit _Lakshmi Narasimha temple_, where we saw two huge boulders beside the road, which are called the _sister stones_. _Lakshmi Narasimha temple_ has an enormous idol of _Lord narasimha_ which is also carved out of stone. There was quite a competition among people there to get a photo clicked with the idol.
 
 <center><img src="/img/post12/08.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
 <center><em>Lakshmi Narasimha temple</em></center>
 
 Then we visited the _Saasivekalu ganesha_ temple, which has a huge 15 feet idol of _lord Ganesha_. We then visited the _Kadalekalu ganesha_, which is also an idol of _Lord Ganesha_. After visiting all these places it was time for lunch, and the auto uncle had shown us all the places which he had promised to show us.
 
 <center><img src="/img/post12/09.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
 <center><em>Saasivekalu ganesha</em></center>
+
 <center><img src="/img/post12/10.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
 <center><em>Kadalekalu ganesha</em></center>
 
 We were both exhausted and full of sweat after looking at so many places. So, we decided to go for lunch in the _mango tree_ restaurant. Most of the restaurants in Hampi are vegetarian including the _mango tree_. It has a really good ambiance, with friendly staff and a sit-on-floor kind of arrangement, it was quite relaxing for both of us. After having our lunch there, we decided to go back to our room and rest for some time. The only place left to be visited during the day was _Virupaksha temple_ which was within a walking distance from our room. 
@@ -71,9 +85,11 @@ We were both exhausted and full of sweat after looking at so many places. So, we
 After having a good afternoon nap, we left to visit the _Virupaksha temple_. There was an enormous chariot outside the temple, I could see a lot of monkeys around. Inside the temple was an elephant who was giving the blessing to people, but only if you offer him something. Apart from this, there are musical pillars inside the temple. It was almost about to be sunset, so we decided to climb the sunset point. It wasn't very difficult to climb the hill which seemed to be a huge boulder, we reached atop and found a good spot to chill, listen to music and enjoy the sunset. From here, we could see the city of Hampi. The sun was setting and it was a pretty view. 
 
 <center><img src="/img/post12/11.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
 <center><em>Chariot outside Virupaksha temple</em></center>
 
 <center><img src="/img/post12/12.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
+
 <center><em>Virupaksha temple</em></center>
 
 <center><img src="/img/post12/13.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
@@ -81,9 +97,11 @@ After having a good afternoon nap, we left to visit the _Virupaksha temple_. The
 The sun was setting and it was dark, we decided to have a look around at the market and found nothing of our interest. Mostly there were a lot of stone cravings, and art pieces and stuff like that. It was almost dinner time and we couldn't find any other better restaurant than the _mango tree_ to have our dinner as well. The ambiance during the night was even better. 
 
 <center><img src="/img/post12/14.jpeg" alt=" " title=" " height = "600 px" width = "400 px" ></center>
+
 <center><em>Sunset while listening to this <a href="https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N">gem</a></em></center>
 
 <center><img src="/img/post12/15.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
+
 <center><em>Mango tree</em></center>
 
 The first day of the trip came to an end here. Let us continue in the next post.
