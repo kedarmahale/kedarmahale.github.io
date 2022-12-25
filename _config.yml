@@ -106,7 +106,7 @@ deploy:
   github-token: $GH_TOKEN
   repo: https://github.com/kedarmahale/kedarmahale.github.io
   # example, https://github.com/hexojs/hexojs.github.io
-  target_branch: master
+  target_branch: gh-pages
   on:
   branch: hexo-source
   local-dir: public
