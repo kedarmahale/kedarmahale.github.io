@@ -103,6 +103,10 @@ theme: Chic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
+  github-token: $GH_TOKEN
   repo: https://github.com/kedarmahale/kedarmahale.github.io
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: master
+  target_branch: master
+  on:
+  branch: hexo-source
+  local-dir: public
