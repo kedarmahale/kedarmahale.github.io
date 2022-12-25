@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="author" content="Kedar Mahale">
+
+
+
+
+
+<title>The trip that happened (part - 3)..... | Hexo</title>
+
+
+
+    <link rel="icon" href="/favicon.ico">
+
+
+
+
+    <!-- stylesheets list from _config.yml -->
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+
+
+
+    <!-- scripts list from _config.yml -->
+    
+    <script src="/js/script.js"></script>
+    
+    <script src="/js/tocbot.min.js"></script>
+    
+
+
+
+    
+    
+        
+    
+
+
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+<body>
+    <script>
+        // this function is used to check current theme before page loaded.
+        (() => {
+            const currentTheme = window.localStorage && window.localStorage.getItem('theme') || '';
+            const isDark = currentTheme === 'dark';
+            const pagebody = document.getElementsByTagName('body')[0]
+            if (isDark) {
+                pagebody.classList.add('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Dark"
+            } else {
+                pagebody.classList.remove('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Light"
+            }
+        })();
+    </script>
+
+    <div class="wrapper">
+        <header>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-header header-logo"><a href="/">Bentham&#39;s Blog</a></div>
+            <div class="menu navbar-right">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+                <input id="switch_default" type="checkbox" class="switch_default">
+                <label for="switch_default" class="toggleBtn"></label>
+            </div>
+        </div>
+    </nav>
+
+    
+    <nav class="navbar-mobile" id="nav-mobile">
+        <div class="container">
+            <div class="navbar-header">
+                <div>
+                    <a href="/">Bentham&#39;s Blog</a><a id="mobile-toggle-theme">·&nbsp;Light</a>
+                </div>
+                <div class="menu-toggle" onclick="mobileBtn()">&#9776; Menu</div>
+            </div>
+            <div class="menu" id="mobile-menu">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+            </div>
+        </div>
+    </nav>
+
+</header>
+<script>
+    var mobileBtn = function f() {
+        var toggleMenu = document.getElementsByClassName("menu-toggle")[0];
+        var mobileMenu = document.getElementById("mobile-menu");
+        if(toggleMenu.classList.contains("active")){
+           toggleMenu.classList.remove("active")
+            mobileMenu.classList.remove("active")
+        }else{
+            toggleMenu.classList.add("active")
+            mobileMenu.classList.add("active")
+        }
+    }
+</script>
+            <div class="main">
+                <div class="container">
+    
+    
+        <div class="post-toc">
+    <div class="tocbot-list">
+    </div>
+    <div class="tocbot-list-menu">
+        <a class="tocbot-toc-expand" onclick="expand_toc()">Expand all</a>
+        <a onclick="go_top()">Back to top</a>
+        <a onclick="go_bottom()">Go to bottom</a>
+    </div>
+</div>
+
+<script>
+    var tocbot_timer;
+    var DEPTH_MAX = 6; // 为 6 时展开所有
+    var tocbot_default_config = {
+        tocSelector: '.tocbot-list',
+        contentSelector: '.post-content',
+        headingSelector: 'h1, h2, h3, h4, h5',
+        orderedList: false,
+        scrollSmooth: true,
+        onClick: extend_click,
+    };
+
+    function extend_click() {
+        clearTimeout(tocbot_timer);
+        tocbot_timer = setTimeout(function() {
+            tocbot.refresh(obj_merge(tocbot_default_config, {
+                hasInnerContainers: true
+            }));
+        }, 420); // 这个值是由 tocbot 源码里定义的 scrollSmoothDuration 得来的
+    }
+
+    document.ready(function() {
+        tocbot.init(obj_merge(tocbot_default_config, {
+            collapseDepth: 1
+        }));
+    });
+
+    function expand_toc() {
+        var b = document.querySelector('.tocbot-toc-expand');
+        var expanded = b.getAttribute('data-expanded');
+        expanded ? b.removeAttribute('data-expanded') : b.setAttribute('data-expanded', true);
+        tocbot.refresh(obj_merge(tocbot_default_config, {
+            collapseDepth: expanded ? 1 : DEPTH_MAX
+        }));
+        b.innerText = expanded ? 'Expand all' : 'Collapse all';
+    }
+
+    function go_top() {
+        window.scrollTo(0, 0);
+    }
+
+    function go_bottom() {
+        window.scrollTo(0, document.body.scrollHeight);
+    }
+
+    function obj_merge(target, source) {
+        for (var item in source) {
+            if (source.hasOwnProperty(item)) {
+                target[item] = source[item];
+            }
+        }
+        return target;
+    }
+</script>
+    
+
+    
+    <article class="post-wrap">
+        <header class="post-header">
+            <h1 class="post-title">The trip that happened (part - 3).....</h1>
+            
+                <div class="post-meta">
+                    
+                        Author: <a itemprop="author" rel="author" href="/">Kedar Mahale</a>
+                    
+
+                    
+                        <span class="post-time">
+                        Date: <a href="#">May 19, 2021&nbsp;&nbsp;11:23:11</a>
+                        </span>
+                    
+                    
+                        <span class="post-category">
+                    Category:
+                            
+                                <a href="/categories/Rajasthan-trip/">Rajasthan trip</a>
+                            
+                        </span>
+                    
+                </div>
+            
+        </header>
+
+        <div class="post-content">
+            <h3 id="Day-2-Jodhpur"><a href="#Day-2-Jodhpur" class="headerlink" title="Day 2, Jodhpur"></a>Day 2, Jodhpur</h3><p>Tired from the previous day, I got up in my bed early in the morning. Yes, I get up early, before anyone else does except on very important occasions when it is actually needed. There was complimentary breakfast for us, so I called up to ask and yes you guessed it right, <em>poha</em> was one of the choices and the other was <em>plain-parotha</em>. <em>Aur kya hi expect kare, at least diya tho sahi</em>.</p>
+<p>So, heading to our next place to visit…Mandore gardens it was. We took a cab, and luckily we all reached safely. Mandore gardens as the name suggests are a garden, with many and when I say many, I mean many old temples. A beautiful garden which is maintained pretty well. We wandered around looking within the temples, they were not very clean from within and a bit stinky to be honest. They were not usual temples though, there was no idol inside them, also few of them had steps so that you could access the higher floor. The access to these steps was closed, so we couldn’t go up. </p>
+<center><img src="/img/post4/2.jpeg" alt=" " title=" " height = "500 px" width = "500 px" ></center>
+
+
+<center><em>View of Mandore gardens</em></center>
+
+<p>Almost all of them were similar with the same kind of architecture. Each temple was surrounded by some grass, like a garden with few small trees. A typical Rajasthani-style traditional wedding was happening in one of the temples, which was quite a normal temple as compared to all others.</p>
+<center><img src="/img/post4/1.jpeg" alt="Mandoore gardens" title="Mandoore gardens" height = "500 px" width = "400 px" ></center>
+
+<center><em>View of a wedding</em></center>
+
+<p>There was a small museum inside, so we went inside. UU believed that I click good candids, he’s not wrong though. He decided to stay around me, hoping he would get clicked in a good shot. And as you must have predicted, good candids don’t happen just like that XD, they just happen.</p>
+<p>There were few paintings and artifacts, the usual museum stuff. I guess we all got bored here and wanted to chill. So, we all sat on a bench and started to gossip. We didn’t want to go anywhere or do anything…..just chill. After some time, we got up from there and started wandering around again. Now, we were at the exit of the garden and not sure where to go, it was almost lunchtime. </p>
+<p>There comes a time on a trip, when you all might get frustrated. It may be because of the place or some other reason, just have patience and don’t let the group break! Just hold it, because it’s always worth it!</p>
+<p>We went to a place to eat on a bus this time. We used maps, and somehow we got down way early than we were supposed to. Unfortunately, we had to take another bus to reach our destination.</p>
+<p>There is this cool restaurant in Jodhpur, called Gypsy restaurant. There are two sections to this restaurant. One of them serves the special unlimited <em>thali</em>. Just out of curiosity, we entered this section. To my surprise, the size of the plates was enormous (when you compare them to normal plates). The waiters there serving people carrying big buckets of all the special dishes that are cooked there and just when we sat down and were about to be served <em>chass</em>(buttermilk), we saw the menu. It was way too expensive for us. We had to think of a nice excuse to excuse ourselves from the place. </p>
+<center><img src="/img/post4/3.jpeg" alt=" " title=" " height = "500 px" width = "500 px" ></center>
+
+<center><em>Top left lassi, bottom left gypsy thali, top right dal baati churma, bottom right laccha paratha and dal makhni</em></center>
+
+<p>We then entered the other section. This place was very crowded, so we had to wait for some time before we could even enter. After a long wait, we were inside. Some of my friends were very excited to try <em>daal baati churma</em>, the special dish from Rajasthan. Other friends ordered the Gypsy <em>thali</em> which had the <em>laccha paratha</em>, a gravy, and few other things (see the image &gt;_&lt;). I and MB ordered <em>Amritsari aloo Kulcha</em> along with <em>dal makhni</em>. The amount of butter on the <em>kulcha</em> was a lot, almost half a pack of Amul butter. I would never be so lean if I were to stay there. Anyways, it was just a joy to eat. We all ordered <em>lassi</em>. And it wasn’t the usual <em>lassi</em> at all, it was so thick you cannot drink it, you need to eat it with a spoon. </p>
+<p>Our last place for the day and in Jodhpur was the enormous <strong>Mehrangarh fort</strong>. It’s so huge, you need to twist your neck in all directions to get a good look at it. HP, HH, and UU were curious about zip-lining so they went there. Zip-lining is available behind the fort on a pre-booking basis. I cannot describe their zip-lining experience, but they say it was worth the money. The rest of us went inside the fort.</p>
+<center><img src="/img/post4/4.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+
+<center><em>Mehrangarh fort</em></center>
+
+<center><img src="/img/post4/5.jpeg" alt=" " title=" " height = "350 px" width = "600 px" ></center>
+
+<p>On entering the fort, I saw a group of people sitting towards the side in a corner playing traditional Rajasthani musical instruments. The music flowing out of them was really pretty. I wouldn’t mind joining them, but honestly, I don’t want to spoil their art. As we went inside, there were so many things to look at. The usual museum stuff with all the artifacts, their clothes, and many more. Their royal rooms, which have now been renovated to look like new. From the height of this fort, you can have a look at the entire city. And looking at the buildings and houses around, you realize why it is called “Blue City”. By the time we were done looking around this fort, it was almost evening. </p>
+<center><img src="/img/post4/6.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+<center><img src="/img/post4/7.jpeg" alt=" " title=" " height = "500 px" width = "350 px" ></center>
+
+<p>The sunset over this fort looks really pretty, as mentioned in the previous part. We managed to get some really good pictures of the sunset.</p>
+<p>It was almost dark and we all were hungry. The place where we were was probably at the peak of the city. So walking somewhere wasn’t an option. Also Ola or Uber isn’t very responsive there, so we had to make an auto there and go to a place to eat. Also, if you’re not sure of the name of the place what it is called locally, it’s always better to get it confirmed by a local person. Unfortunately, we were smart enough to use maps (<em>haa phir see</em>) to navigate the auto driver to the place. Please don’t trust maps in such situations, because you will end up paying more to the auto as we did. The <em>auto wale uncle</em> got annoyed at us for taking him to a place which he knew, according to him in a long route so he was really frustrated at us, and I remember HP telling him <em>rehne do na uncle, bacche hai hum</em>.</p>
+<p>There is a place called <em>Kuchaman Haweli</em>, which is like a restaurant. Almost every place there has space on the rooftop to eat. So we decided to go there. There was a beautiful view of <em>Mehrangarh fort</em> from this rooftop, and the night lights were making it look more pretty.</p>
+<center><img src="/img/post4/9.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+
+<p> MB looked at the menu and there was a dish name <strong><em>pee pulav</em></strong> and he showed me. Adventurous us, we decided to order it. And we realized after our order came that it was a spelling mistake of <em>pea pulav</em>. <em>Koi baat nahi yaar, ho jaata hai</em>. </p>
+ <center><img src="/img/post4/8.jpeg" alt=" " title=" " height = "300 px" width = "250 px" ></center>
+
+<p> And in between all this, one of us got a notification, that the results of the previous sem were out. Our exams were just over, and our results are published online. So, if you know someone’s birth date, you can see that person’s result. </p>
+<p>Fortunately, we all got good grades. <em>Ab trip me aur maja ayega na bidu?</em>. The next day at 06:30 a.m. we were supposed to catch a train for Jaipur. We asked the hotel people to arrange some transport for us to the railway station.</p>
+<p>Let us continue our journey in the next post. Stay tuned!</p>
+
+        </div>
+
+        
+            <section class="post-copyright">
+                
+                    <p class="copyright-item">
+                        <span>Author:</span>
+                        <span>Kedar Mahale</span>
+                    </p>
+                
+                
+                    <p class="copyright-item">
+                        <span>Permalink:</span>
+                        <span><a href="https://kedarmahale.github.io/2021/05/19/The-trip-that-happened-part-3/">https://kedarmahale.github.io/2021/05/19/The-trip-that-happened-part-3/</a></span>
+                    </p>
+                
+                
+                    <p class="copyright-item">
+                        <span>License:</span>
+                        <span>Copyright (c) 2019 <a target="_blank" rel="noopener" href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE</span>
+                    </p>
+                
+                
+                     <p class="copyright-item">
+                         <span>Slogan:</span>
+                         <span>Do you believe in <strong>DESTINY</strong>?</span>
+                     </p>
+                
+
+            </section>
+        
+        <section class="post-tags">
+            <div>
+                <span>Tag(s):</span>
+                <span class="tag">
+                    
+                    
+                        <a href="/tags/Trips/"># Trips</a>
+                    
+                        
+                </span>
+            </div>
+            <div>
+                <a href="javascript:window.history.back();">back</a>
+                <span>· </span>
+                <a href="/">home</a>
+            </div>
+        </section>
+        <section class="post-nav">
+            
+                <a class="prev" rel="prev" href="/2021/05/27/The-trip-that-happened-part-4/">The trip that happened (part - 4).....</a>
+            
+            
+            <a class="next" rel="next" href="/2021/05/15/The-trip-that-happened-part-2/">The trip that happened (part - 2).....</a>
+            
+        </section>
+
+
+    </article>
+</div>
+
+            </div>
+            <footer id="footer" class="footer">
+    <div class="copyright">
+        <span>© Kedar Mahale | Powered by <a href="https://hexo.io" target="_blank">Hexo</a> & <a href="https://github.com/Siricee/hexo-theme-Chic" target="_blank">Chic</a></span>
+    </div>
+</footer>
+
+    </div>
+</body>
+
+</html>

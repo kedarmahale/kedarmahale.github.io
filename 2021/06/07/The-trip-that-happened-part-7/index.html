@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="author" content="Kedar Mahale">
+
+
+
+
+
+<title>The trip that happened (part - 7)..... | Hexo</title>
+
+
+
+    <link rel="icon" href="/favicon.ico">
+
+
+
+
+    <!-- stylesheets list from _config.yml -->
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+
+
+
+    <!-- scripts list from _config.yml -->
+    
+    <script src="/js/script.js"></script>
+    
+    <script src="/js/tocbot.min.js"></script>
+    
+
+
+
+    
+    
+        
+    
+
+
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+<body>
+    <script>
+        // this function is used to check current theme before page loaded.
+        (() => {
+            const currentTheme = window.localStorage && window.localStorage.getItem('theme') || '';
+            const isDark = currentTheme === 'dark';
+            const pagebody = document.getElementsByTagName('body')[0]
+            if (isDark) {
+                pagebody.classList.add('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Dark"
+            } else {
+                pagebody.classList.remove('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Light"
+            }
+        })();
+    </script>
+
+    <div class="wrapper">
+        <header>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-header header-logo"><a href="/">Bentham&#39;s Blog</a></div>
+            <div class="menu navbar-right">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+                <input id="switch_default" type="checkbox" class="switch_default">
+                <label for="switch_default" class="toggleBtn"></label>
+            </div>
+        </div>
+    </nav>
+
+    
+    <nav class="navbar-mobile" id="nav-mobile">
+        <div class="container">
+            <div class="navbar-header">
+                <div>
+                    <a href="/">Bentham&#39;s Blog</a><a id="mobile-toggle-theme">·&nbsp;Light</a>
+                </div>
+                <div class="menu-toggle" onclick="mobileBtn()">&#9776; Menu</div>
+            </div>
+            <div class="menu" id="mobile-menu">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+            </div>
+        </div>
+    </nav>
+
+</header>
+<script>
+    var mobileBtn = function f() {
+        var toggleMenu = document.getElementsByClassName("menu-toggle")[0];
+        var mobileMenu = document.getElementById("mobile-menu");
+        if(toggleMenu.classList.contains("active")){
+           toggleMenu.classList.remove("active")
+            mobileMenu.classList.remove("active")
+        }else{
+            toggleMenu.classList.add("active")
+            mobileMenu.classList.add("active")
+        }
+    }
+</script>
+            <div class="main">
+                <div class="container">
+    
+    
+        <div class="post-toc">
+    <div class="tocbot-list">
+    </div>
+    <div class="tocbot-list-menu">
+        <a class="tocbot-toc-expand" onclick="expand_toc()">Expand all</a>
+        <a onclick="go_top()">Back to top</a>
+        <a onclick="go_bottom()">Go to bottom</a>
+    </div>
+</div>
+
+<script>
+    var tocbot_timer;
+    var DEPTH_MAX = 6; // 为 6 时展开所有
+    var tocbot_default_config = {
+        tocSelector: '.tocbot-list',
+        contentSelector: '.post-content',
+        headingSelector: 'h1, h2, h3, h4, h5',
+        orderedList: false,
+        scrollSmooth: true,
+        onClick: extend_click,
+    };
+
+    function extend_click() {
+        clearTimeout(tocbot_timer);
+        tocbot_timer = setTimeout(function() {
+            tocbot.refresh(obj_merge(tocbot_default_config, {
+                hasInnerContainers: true
+            }));
+        }, 420); // 这个值是由 tocbot 源码里定义的 scrollSmoothDuration 得来的
+    }
+
+    document.ready(function() {
+        tocbot.init(obj_merge(tocbot_default_config, {
+            collapseDepth: 1
+        }));
+    });
+
+    function expand_toc() {
+        var b = document.querySelector('.tocbot-toc-expand');
+        var expanded = b.getAttribute('data-expanded');
+        expanded ? b.removeAttribute('data-expanded') : b.setAttribute('data-expanded', true);
+        tocbot.refresh(obj_merge(tocbot_default_config, {
+            collapseDepth: expanded ? 1 : DEPTH_MAX
+        }));
+        b.innerText = expanded ? 'Expand all' : 'Collapse all';
+    }
+
+    function go_top() {
+        window.scrollTo(0, 0);
+    }
+
+    function go_bottom() {
+        window.scrollTo(0, document.body.scrollHeight);
+    }
+
+    function obj_merge(target, source) {
+        for (var item in source) {
+            if (source.hasOwnProperty(item)) {
+                target[item] = source[item];
+            }
+        }
+        return target;
+    }
+</script>
+    
+
+    
+    <article class="post-wrap">
+        <header class="post-header">
+            <h1 class="post-title">The trip that happened (part - 7).....</h1>
+            
+                <div class="post-meta">
+                    
+                        Author: <a itemprop="author" rel="author" href="/">Kedar Mahale</a>
+                    
+
+                    
+                        <span class="post-time">
+                        Date: <a href="#">June 7, 2021&nbsp;&nbsp;11:23:11</a>
+                        </span>
+                    
+                    
+                        <span class="post-category">
+                    Category:
+                            
+                                <a href="/categories/Rajasthan-trip/">Rajasthan trip</a>
+                            
+                        </span>
+                    
+                </div>
+            
+        </header>
+
+        <div class="post-content">
+            <h3 id="Day-6-Udaipur"><a href="#Day-6-Udaipur" class="headerlink" title="Day 6, Udaipur"></a>Day 6, Udaipur</h3><p>After a disastrous day in Ajmer, I was feeling really low. I had no more hopes for this trip. In every city which we visited previously, we expected some really good stuff. As we all know expectations are not good as most of the time they turn out to be disappointing. We now had no expectations from Udaipur. As usual, I got up earlier than everyone got ready and was waiting for others in the hotel lobby. </p>
+<p>It was a bright sunny morning, just the way I like. The neighborhood of the hotel seemed quite decent. We took a cab to our first place of visit in Udaipur which was <em>Lake Pichola</em>. While we were on the way, Mi all of a sudden asked the cab driver “<em>Bhaiya, Udaipur me dekhne layak kya hai?</em>“, to which he replied, “<em>Bhaiya, pura Udaipur hi dekhne layak hai!!!</em>“. And it is! Udaipur, the city of lakes as it is rightly called is a really pretty city. It looked different compared to all the other places we visited so far. </p>
+<p><em>Pichola lake</em> by the looks of it is beautiful, and the sunshine was strawberry on the cake. There is a palace in the middle of this lake which is run as a hotel now, I guess. There is a boat ride offered there, we went for the ride. It was a motorboat large enough to accommodate around 20 people. There were two rows of seats in the boat, and it was low enough but not just enough so that you can touch the water while it was riding. It was a 20-minute ride which seemed a pretty short time (<em>itna paisa me itnaich milega!</em>). </p>
+<center><img src="/img/post8/p1.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+<center><em> </em></center>
+
+<center><img src="/img/post8/p2.jpeg" alt=" " title=" " height = "500 px" width = "400 px" ></center>
+<center><em> Lake Pichola </em></center>
+
+<p>The boat took us around all the corners of the lake, also you can get a nice view of the city from the lake perspective. We were able to see the palace in the middle of the lake, also <em>City Palace</em> which is just near the lake could be seen. </p>
+<p>After this, we headed towards the city palace. It’s within a walking distance of the lake. I remembered the words of the cab driver. Even if you are a bad photographer, you will end up getting a ton of good clicks. This place is that pretty. <em>Tareef karu kya uski, jisne tujhe banaya!</em>.</p>
+<center><img src="/img/post8/cp1.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+<center><em> City Palace</em></center>
+
+<center><img src="/img/post8/cp2.jpeg" alt=" " title=" " height = "300 px" width = "400 px" ></center>
+<center><em> </em></center>
+
+<p>We reached the city palace, it was filled with the usual museum stuff and other artifacts. Apart from all this, we’re having real fun that day. The previous day’s depressed mood was dead now. I was feeling joyful. <em>Aisa lag raha tha, trip me jaan vapas aaa gayi thi!</em>. By the time we were done looking around the palace, it was almost noon. </p>
+<p>I was hungry, we all were. I had been eating north-Indian food for so many days now, my craving for rice had increased. We wandered around streets, finally reached a narrow street that looked somewhat like a marketplace.</p>
+<center><img src="/img/post8/strt1.jpeg" alt=" " title=" " height = "400 px" width = "300 px" ></center>
+<center><em> The street view</em></center>
+
+<p> There, we entered a tiny restaurant that had just enough seating available to accommodate all of us. After thoroughly going through the menu, I ordered a <em>veg thali</em> which had the bare minimum amount of rice but was enough to satisfy my craving. Along with that, there were four buttery <em>chapatis</em> and a curry. </p>
+<p>We left this place after a while. As we were walking down the street, we came across a small shop which was filled with a lot of paintings. SJ entered this shop, she was taking too long so we all decided to enter. There was a middle-aged man, greyish hair conversing with SJ. He was kind enough to attend all of us, he was the artist who had drawn all the paintings. He told us they are called <em>Madhubani</em>, the traditional Rajasthani miniature art. It is drawn on a special kind of cloth, with some specially made colors. SJ was enquiring more and more which got him more interested. We also bought a few of his paintings. In the end, he was so overwhelmed, that he decided to gift each of us “something”, which he said he would give if we visit him again in the evening. Later he also told us that he was a visiting faculty at Cardiff University, where he teaches this art form to other students.</p>
+<center><img src="/img/post8/shp1.jpeg" alt=" " title=" " height = "300 px" width = "400 px" ></center>
+<center><em> Madhubani art</em></center>
+
+<p>This lifted our mood. The day was going way better than expected. I will not be wrong if I called this day the happiest day and also the best day of the trip. Then we decided to go to our next place of visit which was <em>Bagore ki Haweli</em>. Most of the attractions are in proximity of each other, so we were just walking towards <em>Bagore ki Haweli</em> when we came across a temple. There were steps to reach this temple, so we climbed these steps and reached there. There was a huge crowd of people there, some sort of <em>puja</em> was happening there, so we couldn’t enter the temple. We returned and went on our way to our original destination. </p>
+<center><img src="/img/post8/tmp1.jpeg" alt=" " title=" " height = "400 px" width = "300 px" ></center>
+<center><em> Temple </em></center>
+
+<p><em>Bagore ki Haweli</em> is situated on the banks of lake <em>Pichola</em>. As we entered, we saw some parts of it were under renovation. This was a two-story structure with a few of its rooms containing the museum artifacts and ornaments. Traditional Indian homes used to have a courtyard, this place had a similar courtyard with a tree in the middle. The tree was showering something which looked like pink blossoms to me. This place was also pretty, similar to most of the places we saw in Udaipur so far. After some time, we went to the bank of the lake, where we spent some time chilling. The lake looked even prettier from here. </p>
+<center><img src="/img/post8/bh1.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+<center><em> </em></center>
+<center><img src="/img/post8/bh2.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+<center><em> Bagore ki Haweli </em></center>
+
+<center><img src="/img/post8/lake_bank1.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+<center><em> </em></center>
+<center><img src="/img/post8/lake_bank2.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+<center><em> View from lake bank </em></center>
+
+<p>It was almost evening when our travel expert HH suggested we should go to the <em>Roof top cafe</em>. This cafe was within a walking distance, and it was similar to a structure I described in Jodhpur. We climbed many steps before we could reach the actual rooftop. Sun was about to be set, and the view of the sun setting over the lake was so pretty, I can’t even describe it in words. There was another standalone structure on top of this rooftop, which I, UU, and Mi got to know later was accessible for an extra fee. We had to climb down again and join the rest of them. I decided to have a coffee (it had some fancy name which I don’t even remember, and the price was even fancier), I am not a coffee person, and very shortly you will know the reason why. </p>
+<center><img src="/img/post8/rt1.jpeg" alt=" " title=" " height = "300 px" width = "600 px" ></center>
+<center><em> </em></center>
+<center><img src="/img/post8/rt2.jpeg" alt=" " title=" " height = "300 px" width = "400 px" ></center>
+<center><em> View from rooftop </em></center>
+
+<p>It was cold and windy, moreover, we were on an open rooftop which increased the effect of cold winds. After I had the coffee, my energy level was just different, which you could see by the way I was talking. I usually am very gentle while talking, and after the coffee, I was shouting at people. I guess I got high just by a cup of coffee. </p>
+<p>It was almost dark, we also had to visit the Artist uncle, before he closed his shop. The market was in the way so some of us decided to explore some shops. Some shops had the traditional Rajasthani clothing displayed. After a while, we went to the Artist’s shop where to our surprise, he had made small pieces of art for each of us. It was a grain of rice, with our names on them which were stuck to a thick paper, and around it, there was unique artwork for each of us. It was beautiful. We thanked him for such a cute gesture and left.</p>
+<center><img src="/img/post8/shp2.jpeg" alt=" " title=" " height = "300 px" width = "400 px" ></center>
+<center><em> Special gifts! </em></center>
+
+<p>It was almost dinner time now. As usual, we were confused about where to go. The place which we fortunately or unfortunately entered helped us create a lot of memories. This restaurant was spread across many floors in the building and we went to the rooftop as usual. There was no one other than us at the rooftop. We were just gossiping and chilling and for every small joke that happened or even if nothing happened, I was laughing at the top of my voice. The energy from coffee was not dead yet. The waiter arrived to attend us after some time. It looked as though there was a shortage of manpower in the restaurant. </p>
+<p>Looking at the menu, one of us asked him a question “<em>Bhaiya, ye panner makhni aur paneer makkhanwala me kya farak hai?</em>“. <strong>Disclaimer: The answer you’re about to read now, might leave you stunned for life! Read at your own risk.</strong> He replied, “<em>Ek me simla mirch hoga aur ek me nahi, ek me paneer ke lambe tukde honge aur ek me chote.</em>“ I am not even able to imagine now how hard I laughed at this. Mi was somehow starting to look pissed. Just out of curiosity, we ordered both <em>Paneer makhni</em> and <em>Paneer makkhanwala</em>. Looking at the size of order, the waiter already looked tensed. Our order arrived after almost half an hour, moreover, it was not complete. He still had to get a few more <em>rotis</em>. Mi was so pissed at all this, he just decided to leave the place and walked off without a word. I guess he must have said in his mind “<em>Poor service, kam rating dunga!</em>“. I started laughing even harder at this. Later I asked Mi, where did he go after that, to which he replied he had noodles and till today, I suspect him of having <em>maggi</em> and not noodles. Coming back to our story, the waiter arrived after a while with the remaining <em>rotis</em>. We could see traces of flour on his hands. Which means, the waiter was the cook? We realized the number of <em>rotis</em> was still not enough. There we no waiters around, so I decided to go into the kitchen. And our suspicion was turned into reality. The waiter was indeed the cook. I said “<em>Bhaiya 14 aur roti lana</em>“. The look on his face was devastating. I came back to my friends and described the cook’s state. <em>Meri toh haasi bhi nahi ruk rahi thii</em>. No doubt, I felt sad for him too. After laughing a lot, we were able to finish our dinner, meanwhile, Mi was already in the hotel room after enjoying his <em>maggi</em>. </p>
+<center><img src="/img/post8/nyt.jpeg" alt=" " title=" " height = "300 px" width = "400 px" ></center>
+<center><em> View of lake at night</em></center>
+
+<p>This was indeed the best day of this trip and to be able to relate better, I plotted a graph. Also, there was a bit of sadness that the trip will be coming to an end soon. </p>
+ <center><img src="/img/post8/udaipur_graph.jpeg" alt=" " title=" " height = "300 px" width = "400 px" ></center>
+<center><em> </em></center>
+
+<p>Let us continue the journey in the next post. Stay tuned!</p>
+
+        </div>
+
+        
+            <section class="post-copyright">
+                
+                    <p class="copyright-item">
+                        <span>Author:</span>
+                        <span>Kedar Mahale</span>
+                    </p>
+                
+                
+                    <p class="copyright-item">
+                        <span>Permalink:</span>
+                        <span><a href="https://kedarmahale.github.io/2021/06/07/The-trip-that-happened-part-7/">https://kedarmahale.github.io/2021/06/07/The-trip-that-happened-part-7/</a></span>
+                    </p>
+                
+                
+                    <p class="copyright-item">
+                        <span>License:</span>
+                        <span>Copyright (c) 2019 <a target="_blank" rel="noopener" href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE</span>
+                    </p>
+                
+                
+                     <p class="copyright-item">
+                         <span>Slogan:</span>
+                         <span>Do you believe in <strong>DESTINY</strong>?</span>
+                     </p>
+                
+
+            </section>
+        
+        <section class="post-tags">
+            <div>
+                <span>Tag(s):</span>
+                <span class="tag">
+                    
+                    
+                        <a href="/tags/Trips/"># Trips</a>
+                    
+                        
+                </span>
+            </div>
+            <div>
+                <a href="javascript:window.history.back();">back</a>
+                <span>· </span>
+                <a href="/">home</a>
+            </div>
+        </section>
+        <section class="post-nav">
+            
+                <a class="prev" rel="prev" href="/2021/06/11/The-trip-that-happened-part-8/">The trip that happened (part - 8).....</a>
+            
+            
+            <a class="next" rel="next" href="/2021/06/04/The-trip-that-happened-part-6/">The trip that happened (part - 6).....</a>
+            
+        </section>
+
+
+    </article>
+</div>
+
+            </div>
+            <footer id="footer" class="footer">
+    <div class="copyright">
+        <span>© Kedar Mahale | Powered by <a href="https://hexo.io" target="_blank">Hexo</a> & <a href="https://github.com/Siricee/hexo-theme-Chic" target="_blank">Chic</a></span>
+    </div>
+</footer>
+
+    </div>
+</body>
+
+</html>

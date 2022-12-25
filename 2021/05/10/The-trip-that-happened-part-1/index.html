@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="author" content="Kedar Mahale">
+
+
+
+
+
+<title>The trip that happened (part - 1)..... | Hexo</title>
+
+
+
+    <link rel="icon" href="/favicon.ico">
+
+
+
+
+    <!-- stylesheets list from _config.yml -->
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+
+
+
+    <!-- scripts list from _config.yml -->
+    
+    <script src="/js/script.js"></script>
+    
+    <script src="/js/tocbot.min.js"></script>
+    
+
+
+
+    
+    
+        
+    
+
+
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+<body>
+    <script>
+        // this function is used to check current theme before page loaded.
+        (() => {
+            const currentTheme = window.localStorage && window.localStorage.getItem('theme') || '';
+            const isDark = currentTheme === 'dark';
+            const pagebody = document.getElementsByTagName('body')[0]
+            if (isDark) {
+                pagebody.classList.add('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Dark"
+            } else {
+                pagebody.classList.remove('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Light"
+            }
+        })();
+    </script>
+
+    <div class="wrapper">
+        <header>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-header header-logo"><a href="/">Bentham&#39;s Blog</a></div>
+            <div class="menu navbar-right">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+                <input id="switch_default" type="checkbox" class="switch_default">
+                <label for="switch_default" class="toggleBtn"></label>
+            </div>
+        </div>
+    </nav>
+
+    
+    <nav class="navbar-mobile" id="nav-mobile">
+        <div class="container">
+            <div class="navbar-header">
+                <div>
+                    <a href="/">Bentham&#39;s Blog</a><a id="mobile-toggle-theme">·&nbsp;Light</a>
+                </div>
+                <div class="menu-toggle" onclick="mobileBtn()">&#9776; Menu</div>
+            </div>
+            <div class="menu" id="mobile-menu">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+            </div>
+        </div>
+    </nav>
+
+</header>
+<script>
+    var mobileBtn = function f() {
+        var toggleMenu = document.getElementsByClassName("menu-toggle")[0];
+        var mobileMenu = document.getElementById("mobile-menu");
+        if(toggleMenu.classList.contains("active")){
+           toggleMenu.classList.remove("active")
+            mobileMenu.classList.remove("active")
+        }else{
+            toggleMenu.classList.add("active")
+            mobileMenu.classList.add("active")
+        }
+    }
+</script>
+            <div class="main">
+                <div class="container">
+    
+    
+        <div class="post-toc">
+    <div class="tocbot-list">
+    </div>
+    <div class="tocbot-list-menu">
+        <a class="tocbot-toc-expand" onclick="expand_toc()">Expand all</a>
+        <a onclick="go_top()">Back to top</a>
+        <a onclick="go_bottom()">Go to bottom</a>
+    </div>
+</div>
+
+<script>
+    var tocbot_timer;
+    var DEPTH_MAX = 6; // 为 6 时展开所有
+    var tocbot_default_config = {
+        tocSelector: '.tocbot-list',
+        contentSelector: '.post-content',
+        headingSelector: 'h1, h2, h3, h4, h5',
+        orderedList: false,
+        scrollSmooth: true,
+        onClick: extend_click,
+    };
+
+    function extend_click() {
+        clearTimeout(tocbot_timer);
+        tocbot_timer = setTimeout(function() {
+            tocbot.refresh(obj_merge(tocbot_default_config, {
+                hasInnerContainers: true
+            }));
+        }, 420); // 这个值是由 tocbot 源码里定义的 scrollSmoothDuration 得来的
+    }
+
+    document.ready(function() {
+        tocbot.init(obj_merge(tocbot_default_config, {
+            collapseDepth: 1
+        }));
+    });
+
+    function expand_toc() {
+        var b = document.querySelector('.tocbot-toc-expand');
+        var expanded = b.getAttribute('data-expanded');
+        expanded ? b.removeAttribute('data-expanded') : b.setAttribute('data-expanded', true);
+        tocbot.refresh(obj_merge(tocbot_default_config, {
+            collapseDepth: expanded ? 1 : DEPTH_MAX
+        }));
+        b.innerText = expanded ? 'Expand all' : 'Collapse all';
+    }
+
+    function go_top() {
+        window.scrollTo(0, 0);
+    }
+
+    function go_bottom() {
+        window.scrollTo(0, document.body.scrollHeight);
+    }
+
+    function obj_merge(target, source) {
+        for (var item in source) {
+            if (source.hasOwnProperty(item)) {
+                target[item] = source[item];
+            }
+        }
+        return target;
+    }
+</script>
+    
+
+    
+    <article class="post-wrap">
+        <header class="post-header">
+            <h1 class="post-title">The trip that happened (part - 1).....</h1>
+            
+                <div class="post-meta">
+                    
+                        Author: <a itemprop="author" rel="author" href="/">Kedar Mahale</a>
+                    
+
+                    
+                        <span class="post-time">
+                        Date: <a href="#">May 10, 2021&nbsp;&nbsp;11:05:11</a>
+                        </span>
+                    
+                    
+                        <span class="post-category">
+                    Category:
+                            
+                                <a href="/categories/Rajasthan-trip/">Rajasthan trip</a>
+                            
+                        </span>
+                    
+                </div>
+            
+        </header>
+
+        <div class="post-content">
+            <h3 id="The-journey-beautiful-than-the-destination"><a href="#The-journey-beautiful-than-the-destination" class="headerlink" title="The journey - beautiful than the destination?"></a>The journey - beautiful than the destination?</h3><p>4:00 a.m., Margao railway station was where the train was supposed to arrive from Coimbatore. As it was a very absurd time to reach the railway station, I and HP decided to stay at MB’s place for the night, since his place was very close to the railway station. Our other friend SM would join us directly on the train, and SJ would join us in Panvel on the train and the rest would meet up at the railway station. </p>
+<p>As usual, the train was late. They were good old covid19 free days, no mask, nothing, just fresh air. It was early morning, so I decided to have a cup of tea. Railway station tea has a different taste and vibe. <em>“Wo rail ka safar hi kyaaa, jiski shuruwat ek chai se naa ho?”</em>. The train arrived after another hour, good going. </p>
+<p>We boarded the train, given the time, it was pretty dark inside as everyone was sleeping. It was almost a mini-orchestra of snoring. I reached my seat, which as usual was the upper berth. I hadn’t slept the previous night as I was playing ETS 2 with my friend MB, yes we both like trucks! So, I decided I should sleep. It was supposed to be a long journey, I did not carry much food on the train, so sleeping was a better option to keep hunger out of question.</p>
+<p>I got up in the afternoon when the train was about to reach Panvel. I missed all the action in between, I assume everyone else was sleeping too. SJ brought some food for us. The not-so-fun part was, HV and Mi, were in other bogey and it was miles apart from ours. We met once during the journey to exchange some food. The train has “super-fast” in its name, and I guess its name was justified. </p>
+<p>Standing near the doorway of a train when it’s going fast, with air rushing on your face feels like a refreshing experience. We were discussing all random stuff with each other on the train. SJ was making her badminton notes. The reason I love railway journeys is you get to spend some quality time with your loved ones. Phone cannot distract you, because there is mostly no network, so you go back to the classics. Talk to the people around you! </p>
+<p>As per the itinerary, our first location was Jodhpur, which is the most south of all the locations, followed by Jaipur, Ajmer, and Udaipur. We had booked a hotel on an online platform for a stay at Jodhpur. The hotels in Rajasthan were having some differences with this online platform and as a result, they canceled the hotel. We were supposed to reach the next morning, no stay? where do we go? Let’s see that later, that was the conclusion of our discussion.</p>
+<p>Around 08:00 p.m. we reached Ahemdabad railway station. We had to resort to a <em>Dhokla</em> as our night meal. It was nice given its price. <em>Kabhi gaye tho, try karke dekh lena</em>. </p>
+<center><img src="/img/post2/Baroda_rlwy_stn.jpeg" alt="Baroda Railway Station" title="Railway station Baroda" height = "500 px" width = "400 px" ></center>
+
+<p>The train took a long halt here. It was traveling from Coimbatore towards Hisar in Haryana. Quite a long journey for the train. After 45 mins the train left the station. We were supposed to roam the city the next day, so we decided to rest. Also, the train was supposed to reach at 07:00 a.m. and surprisingly it did reach before the specified time (<em>Ha pata hai train bol rahi hogi mujhe, “Pichli baar kya bola tha?”</em>).  </p>
+<center><img src="/img/post2/jodhpur_rlwy_stn.jpeg" alt="Jodhpur Railway Station" title="Railway station Jodhpur" height = "500 px" width = "500 px" ></center>
+
+<p>So finally, we reached our destination. Still shaky like a train, walking around clueless (Need to find a place to stay). The railway station of Jodhpur is pretty well maintained and clean. We are still far from reality!!!</p>
+<p>Let us continue in the next post!! Stay tuned!</p>
+
+        </div>
+
+        
+            <section class="post-copyright">
+                
+                    <p class="copyright-item">
+                        <span>Author:</span>
+                        <span>Kedar Mahale</span>
+                    </p>
+                
+                
+                    <p class="copyright-item">
+                        <span>Permalink:</span>
+                        <span><a href="https://kedarmahale.github.io/2021/05/10/The-trip-that-happened-part-1/">https://kedarmahale.github.io/2021/05/10/The-trip-that-happened-part-1/</a></span>
+                    </p>
+                
+                
+                    <p class="copyright-item">
+                        <span>License:</span>
+                        <span>Copyright (c) 2019 <a target="_blank" rel="noopener" href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE</span>
+                    </p>
+                
+                
+                     <p class="copyright-item">
+                         <span>Slogan:</span>
+                         <span>Do you believe in <strong>DESTINY</strong>?</span>
+                     </p>
+                
+
+            </section>
+        
+        <section class="post-tags">
+            <div>
+                <span>Tag(s):</span>
+                <span class="tag">
+                    
+                    
+                        <a href="/tags/Trips/"># Trips</a>
+                    
+                        
+                </span>
+            </div>
+            <div>
+                <a href="javascript:window.history.back();">back</a>
+                <span>· </span>
+                <a href="/">home</a>
+            </div>
+        </section>
+        <section class="post-nav">
+            
+                <a class="prev" rel="prev" href="/2021/05/15/The-trip-that-happened-part-2/">The trip that happened (part - 2).....</a>
+            
+            
+            <a class="next" rel="next" href="/2021/05/09/The-trip-that-happened/">The trip that happened.....</a>
+            
+        </section>
+
+
+    </article>
+</div>
+
+            </div>
+            <footer id="footer" class="footer">
+    <div class="copyright">
+        <span>© Kedar Mahale | Powered by <a href="https://hexo.io" target="_blank">Hexo</a> & <a href="https://github.com/Siricee/hexo-theme-Chic" target="_blank">Chic</a></span>
+    </div>
+</footer>
+
+    </div>
+</body>
+
+</html>

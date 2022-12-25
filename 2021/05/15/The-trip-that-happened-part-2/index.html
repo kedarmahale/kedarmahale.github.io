@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="author" content="Kedar Mahale">
+
+
+
+
+
+<title>The trip that happened (part - 2)..... | Hexo</title>
+
+
+
+    <link rel="icon" href="/favicon.ico">
+
+
+
+
+    <!-- stylesheets list from _config.yml -->
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+
+
+
+    <!-- scripts list from _config.yml -->
+    
+    <script src="/js/script.js"></script>
+    
+    <script src="/js/tocbot.min.js"></script>
+    
+
+
+
+    
+    
+        
+    
+
+
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+<body>
+    <script>
+        // this function is used to check current theme before page loaded.
+        (() => {
+            const currentTheme = window.localStorage && window.localStorage.getItem('theme') || '';
+            const isDark = currentTheme === 'dark';
+            const pagebody = document.getElementsByTagName('body')[0]
+            if (isDark) {
+                pagebody.classList.add('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Dark"
+            } else {
+                pagebody.classList.remove('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Light"
+            }
+        })();
+    </script>
+
+    <div class="wrapper">
+        <header>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-header header-logo"><a href="/">Bentham&#39;s Blog</a></div>
+            <div class="menu navbar-right">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+                <input id="switch_default" type="checkbox" class="switch_default">
+                <label for="switch_default" class="toggleBtn"></label>
+            </div>
+        </div>
+    </nav>
+
+    
+    <nav class="navbar-mobile" id="nav-mobile">
+        <div class="container">
+            <div class="navbar-header">
+                <div>
+                    <a href="/">Bentham&#39;s Blog</a><a id="mobile-toggle-theme">·&nbsp;Light</a>
+                </div>
+                <div class="menu-toggle" onclick="mobileBtn()">&#9776; Menu</div>
+            </div>
+            <div class="menu" id="mobile-menu">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+            </div>
+        </div>
+    </nav>
+
+</header>
+<script>
+    var mobileBtn = function f() {
+        var toggleMenu = document.getElementsByClassName("menu-toggle")[0];
+        var mobileMenu = document.getElementById("mobile-menu");
+        if(toggleMenu.classList.contains("active")){
+           toggleMenu.classList.remove("active")
+            mobileMenu.classList.remove("active")
+        }else{
+            toggleMenu.classList.add("active")
+            mobileMenu.classList.add("active")
+        }
+    }
+</script>
+            <div class="main">
+                <div class="container">
+    
+    
+        <div class="post-toc">
+    <div class="tocbot-list">
+    </div>
+    <div class="tocbot-list-menu">
+        <a class="tocbot-toc-expand" onclick="expand_toc()">Expand all</a>
+        <a onclick="go_top()">Back to top</a>
+        <a onclick="go_bottom()">Go to bottom</a>
+    </div>
+</div>
+
+<script>
+    var tocbot_timer;
+    var DEPTH_MAX = 6; // 为 6 时展开所有
+    var tocbot_default_config = {
+        tocSelector: '.tocbot-list',
+        contentSelector: '.post-content',
+        headingSelector: 'h1, h2, h3, h4, h5',
+        orderedList: false,
+        scrollSmooth: true,
+        onClick: extend_click,
+    };
+
+    function extend_click() {
+        clearTimeout(tocbot_timer);
+        tocbot_timer = setTimeout(function() {
+            tocbot.refresh(obj_merge(tocbot_default_config, {
+                hasInnerContainers: true
+            }));
+        }, 420); // 这个值是由 tocbot 源码里定义的 scrollSmoothDuration 得来的
+    }
+
+    document.ready(function() {
+        tocbot.init(obj_merge(tocbot_default_config, {
+            collapseDepth: 1
+        }));
+    });
+
+    function expand_toc() {
+        var b = document.querySelector('.tocbot-toc-expand');
+        var expanded = b.getAttribute('data-expanded');
+        expanded ? b.removeAttribute('data-expanded') : b.setAttribute('data-expanded', true);
+        tocbot.refresh(obj_merge(tocbot_default_config, {
+            collapseDepth: expanded ? 1 : DEPTH_MAX
+        }));
+        b.innerText = expanded ? 'Expand all' : 'Collapse all';
+    }
+
+    function go_top() {
+        window.scrollTo(0, 0);
+    }
+
+    function go_bottom() {
+        window.scrollTo(0, document.body.scrollHeight);
+    }
+
+    function obj_merge(target, source) {
+        for (var item in source) {
+            if (source.hasOwnProperty(item)) {
+                target[item] = source[item];
+            }
+        }
+        return target;
+    }
+</script>
+    
+
+    
+    <article class="post-wrap">
+        <header class="post-header">
+            <h1 class="post-title">The trip that happened (part - 2).....</h1>
+            
+                <div class="post-meta">
+                    
+                        Author: <a itemprop="author" rel="author" href="/">Kedar Mahale</a>
+                    
+
+                    
+                        <span class="post-time">
+                        Date: <a href="#">May 15, 2021&nbsp;&nbsp;11:23:11</a>
+                        </span>
+                    
+                    
+                        <span class="post-category">
+                    Category:
+                            
+                                <a href="/categories/Rajasthan-trip/">Rajasthan trip</a>
+                            
+                        </span>
+                    
+                </div>
+            
+        </header>
+
+        <div class="post-content">
+            <h3 id="Padharo-mhaaro-des"><a href="#Padharo-mhaaro-des" class="headerlink" title="Padharo mhaaro des"></a>Padharo mhaaro des</h3><p>We reached Jodhpur, managed to find a place to stay. How? HP(our travel expert) had booked a hotel through an online platform, we went and checked it first. It wasn’t so good. But then HH and HP decided to have a toss, if it was in favor of HP, we would stay there or else we go to a place that HH choose. Latter turned out to be true, the hotel wasn’t that bad after all. </p>
+<h3 id="Day-1-Jodhpur"><a href="#Day-1-Jodhpur" class="headerlink" title="Day 1, Jodhpur"></a>Day 1, Jodhpur</h3><p>It was still morning, Rajasthan is pretty cold in December. Chilly air was blowing, the environment felt pretty fresh. We were standing outside the hotel, waiting for a cab. HH had decided on a place to have breakfast. We reached the place, it was on the first floor of an old shady building. Honestly, I felt all buildings there were old. This place was pretty nice, with no crowd, I guess because it was morning. </p>
+<p>SJ and SM decided to order <em>pyaaz kachori</em>, rest all and indecisive me ordered <em>chhole bhature</em>, <em>aur uss</em> <em>chhole bhauture ki mai kya hi tarrif karu, pyaar hi ho gaya!!</em>. I guess the best one I ever had. </p>
+<center><img src="/img/post3/chole_bhature.jpeg" alt="Chhole Bhature" title="Chhole Bhature" height = "400 px" width = "500 px" ></center>
+
+<center><em>Chhole bhature (in short pyaar)</em></center>
+
+
+<center><img src="/img/post3/badami_aloo_puri.jpeg" alt="Badami Aloo Puri" title="Badami Aloo Puri" height = "400 px" width = "600 px" ></center>
+
+<center><em>Badami aloo puri</em></center>
+
+<p>Since, we liked <em>Chhole Bahture</em> so much, we decided to try one more dish, it was <em>badami aloo puri</em>. I was so full with the <em>chhole bhature</em> that I couldn’t even taste the other dish. But, my friends told me that it was good, so I’ll believe them.</p>
+<p>We left the place, decided to go to Umaid bhavan, a location which was closest to our present location. Looking around, I was quite disappointed because the cleanliness at the railway station had set a different standard of hygiene. Ola auto was what we decided to take. HP, SJ, MT got an auto and went together, Mi, HH, SM also got an auto and went together. I, MB and UU were left together. To my tough luck, MB’s tough luck got added and we couldn’t find an auto for a very long time. We were so frustrated that we wanted to walk there, but it was too far(<em>itni mehnat kaun karega?</em>).</p>
+<p>We thought all of them must have already reached and even looked around the place. After a long time somehow, we managed to get an auto and reached the location. So, what next? Time to chill around!</p>
+<p>Umaid Bhavan is a heritage hotel, a museum, and the residence of the royal family. People are allowed to visit only the museum part of this place. There is a small fee which you need to pay to enter the museum. The museum guards are also smart enough, they try to persuade you that they can guide you through, and ask for money in return.</p>
+<center><img src="/img/post3/ub.jpeg" alt="Umaid Bhavan" title="Umaid Bhavan" height = "300 px" width = "600 px" ></center>
+
+<center><em>Umaid bhavan</em></center>
+
+<p>There was a museum of heritage cars on the outer side, so we decided to have a look at it first. There were pretty cars out there. They take good care of their cars and maintain them well. Then we went inside, astonishingly, photography is allowed inside. We took a lot of pictures inside. There are many artifacts, ornaments lot of pictures put up for display inside the museum. All pretty and well maintained. Overall it was nice, by the time we finished looking around, it was almost noon. <em>Chhole bhature</em> was so fulfilling, that I decided to skip my lunch, I guess everyone did. </p>
+<center><img src="/img/post3/ub_friends.jpeg" alt=" " title=" " height = "400 px" width = "500 px" ></center>
+
+<center><em>All friends in one frame, except MB(because he's with the camera)</em></center>
+
+<p>We took an auto to the next location. It was <em>Toorji ka jhalra</em>. It’s a well, not a conventional well. In Rajasthan, they have different methods of rainwater harvesting, this is one of them. I guess they don’t use it much now, but I saw people fishing there. </p>
+<center><img src="/img/post3/tkj.jpeg" alt=" " title=" " height = "500 px" width = "400 px" ></center>
+
+<center><em>Toorji ka jhalra</em></center>
+
+<p>The steps were pretty steep and give the feeling that you might fall while walking down them. There wasn’t anything much to see here, but there was a place to sit, so we decided to take some rest. We all were sitting together, gossiping, MB took out <em>mysorepak</em> which he had bought from his home(<em>bohot tasty thaa!</em>). And then all of a sudden Mi saw a squirrel and he began running after it. I think he was trying to catch it? IDK… Honestly, no trip is complete without Mi doing some epic shit, and there’s a lot more to come(spoiler alert!). It was afternoon, we decided to have a small walk around, market was nearby so we would get to eat something as well.</p>
+<p>While we were walking, I saw a guy on a bike dashed into another guy with a bike. I was expecting a fight to pop up, to my surprise, the guy who was at fault, just got up and said <em>“koi baat nahi”</em> and left. I witnessed almost 3-4 such small accidents in Rajasthan. Never mind, but people are horrible at following driving rules in Rajasthan. This reminds me, why Ceat says “streets are filled with idiots!”. </p>
+<p>The small streets are pretty. </p>
+<center><img src="/img/post3/ss.jpeg" alt=" " title=" " height = "500 px" width = "400 px" ></center>
+
+<center><em>Street view</em></center>
+
+<p>We entered a small restaurant while walking as we were thirsty. If you have seen Weasely’s house, we were in Ron’s room. In fact, we were above Ron’s room. It was open, we could see the pretty view of Mehrangarh fort. It’s simply enormous, you need to stretch your neck at least 270 degrees to get a full view. </p>
+<center><img src="/img/post3/hilltop.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
+
+<center><em>View from the top</em></center>
+
+<p>We ordered a lemon soda since we were thirsty. It smelled like H2S, if you ever worked in the Chemistry lab, you know what I mean. At least I left it untouched after that. We continued our walk and reached the market. It was crowded as all markets are, but there was a clock tower in the middle, or as they call it, <em>Ghanta ghar</em>. </p>
+<center><img src="/img/post3/market.jpeg" alt=" " title=" " height = "400 px" width = "500 px" ></center>
+
+<center><em>Inside the market</em></center>
+
+<p>So, where were we even going? After walking for a while, we realized there is another attraction nearby. <em>Jaswant thada</em> as it is called, it was a cool place, with a garden, a lake beside it which reflected the structure and an elegant view of the Mehrangarh fort. We clicked a lot of pictures there. </p>
+<center><img src="/img/post3/jt.jpeg" alt=" " title=" " height = "400 px" width = "300 px" ></center>
+
+<center><em>Jaswant thada</em></center>
+
+<p>It was a pretty place. It was almost evening and we could see the sunset, it was beautiful. <em>Manna padega, sunsets acche dikhte hai waha seey</em>.</p>
+<center><img src="/img/post3/sunset.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
+
+<center><em>Sunset from Jaswant thada</em></center>
+
+<center><img src="/img/post3/frens.jpeg" alt=" " title=" " height = "400 px" width = "600 px" ></center>
+
+<center><em>Random click at Jaswant thada</em></center>
+
+<p>It was already dark, so we called it a day!!! The first day of the trip comes to an end!</p>
+<p>Let’s continue the trip in the next post!</p>
+
+        </div>
+
+        
+            <section class="post-copyright">
+                
+                    <p class="copyright-item">
+                        <span>Author:</span>
+                        <span>Kedar Mahale</span>
+                    </p>
+                
+                
+                    <p class="copyright-item">
+                        <span>Permalink:</span>
+                        <span><a href="https://kedarmahale.github.io/2021/05/15/The-trip-that-happened-part-2/">https://kedarmahale.github.io/2021/05/15/The-trip-that-happened-part-2/</a></span>
+                    </p>
+                
+                
+                    <p class="copyright-item">
+                        <span>License:</span>
+                        <span>Copyright (c) 2019 <a target="_blank" rel="noopener" href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE</span>
+                    </p>
+                
+                
+                     <p class="copyright-item">
+                         <span>Slogan:</span>
+                         <span>Do you believe in <strong>DESTINY</strong>?</span>
+                     </p>
+                
+
+            </section>
+        
+        <section class="post-tags">
+            <div>
+                <span>Tag(s):</span>
+                <span class="tag">
+                    
+                    
+                        <a href="/tags/Trips/"># Trips</a>
+                    
+                        
+                </span>
+            </div>
+            <div>
+                <a href="javascript:window.history.back();">back</a>
+                <span>· </span>
+                <a href="/">home</a>
+            </div>
+        </section>
+        <section class="post-nav">
+            
+                <a class="prev" rel="prev" href="/2021/05/19/The-trip-that-happened-part-3/">The trip that happened (part - 3).....</a>
+            
+            
+            <a class="next" rel="next" href="/2021/05/10/The-trip-that-happened-part-1/">The trip that happened (part - 1).....</a>
+            
+        </section>
+
+
+    </article>
+</div>
+
+            </div>
+            <footer id="footer" class="footer">
+    <div class="copyright">
+        <span>© Kedar Mahale | Powered by <a href="https://hexo.io" target="_blank">Hexo</a> & <a href="https://github.com/Siricee/hexo-theme-Chic" target="_blank">Chic</a></span>
+    </div>
+</footer>
+
+    </div>
+</body>
+
+</html>

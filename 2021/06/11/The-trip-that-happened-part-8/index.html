@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="author" content="Kedar Mahale">
+
+
+
+
+
+<title>The trip that happened (part - 8)..... | Hexo</title>
+
+
+
+    <link rel="icon" href="/favicon.ico">
+
+
+
+
+    <!-- stylesheets list from _config.yml -->
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+
+
+
+    <!-- scripts list from _config.yml -->
+    
+    <script src="/js/script.js"></script>
+    
+    <script src="/js/tocbot.min.js"></script>
+    
+
+
+
+    
+    
+        
+    
+
+
+<meta name="generator" content="Hexo 6.3.0"></head>
+
+<body>
+    <script>
+        // this function is used to check current theme before page loaded.
+        (() => {
+            const currentTheme = window.localStorage && window.localStorage.getItem('theme') || '';
+            const isDark = currentTheme === 'dark';
+            const pagebody = document.getElementsByTagName('body')[0]
+            if (isDark) {
+                pagebody.classList.add('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Dark"
+            } else {
+                pagebody.classList.remove('dark-theme');
+                // mobile
+                document.getElementById("mobile-toggle-theme").innerText = "· Light"
+            }
+        })();
+    </script>
+
+    <div class="wrapper">
+        <header>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-header header-logo"><a href="/">Bentham&#39;s Blog</a></div>
+            <div class="menu navbar-right">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+                <input id="switch_default" type="checkbox" class="switch_default">
+                <label for="switch_default" class="toggleBtn"></label>
+            </div>
+        </div>
+    </nav>
+
+    
+    <nav class="navbar-mobile" id="nav-mobile">
+        <div class="container">
+            <div class="navbar-header">
+                <div>
+                    <a href="/">Bentham&#39;s Blog</a><a id="mobile-toggle-theme">·&nbsp;Light</a>
+                </div>
+                <div class="menu-toggle" onclick="mobileBtn()">&#9776; Menu</div>
+            </div>
+            <div class="menu" id="mobile-menu">
+                
+                    <a class="menu-item" href="/archives">Posts</a>
+                
+                    <a class="menu-item" href="/category">Categories</a>
+                
+                    <a class="menu-item" href="/tag">Tags</a>
+                
+                    <a class="menu-item" href="/about">About</a>
+                
+            </div>
+        </div>
+    </nav>
+
+</header>
+<script>
+    var mobileBtn = function f() {
+        var toggleMenu = document.getElementsByClassName("menu-toggle")[0];
+        var mobileMenu = document.getElementById("mobile-menu");
+        if(toggleMenu.classList.contains("active")){
+           toggleMenu.classList.remove("active")
+            mobileMenu.classList.remove("active")
+        }else{
+            toggleMenu.classList.add("active")
+            mobileMenu.classList.add("active")
+        }
+    }
+</script>
+            <div class="main">
+                <div class="container">
+    
+    
+        <div class="post-toc">
+    <div class="tocbot-list">
+    </div>
+    <div class="tocbot-list-menu">
+        <a class="tocbot-toc-expand" onclick="expand_toc()">Expand all</a>
+        <a onclick="go_top()">Back to top</a>
+        <a onclick="go_bottom()">Go to bottom</a>
+    </div>
+</div>
+
+<script>
+    var tocbot_timer;
+    var DEPTH_MAX = 6; // 为 6 时展开所有
+    var tocbot_default_config = {
+        tocSelector: '.tocbot-list',
+        contentSelector: '.post-content',
+        headingSelector: 'h1, h2, h3, h4, h5',
+        orderedList: false,
+        scrollSmooth: true,
+        onClick: extend_click,
+    };
+
+    function extend_click() {
+        clearTimeout(tocbot_timer);
+        tocbot_timer = setTimeout(function() {
+            tocbot.refresh(obj_merge(tocbot_default_config, {
+                hasInnerContainers: true
+            }));
+        }, 420); // 这个值是由 tocbot 源码里定义的 scrollSmoothDuration 得来的
+    }
+
+    document.ready(function() {
+        tocbot.init(obj_merge(tocbot_default_config, {
+            collapseDepth: 1
+        }));
+    });
+
+    function expand_toc() {
+        var b = document.querySelector('.tocbot-toc-expand');
+        var expanded = b.getAttribute('data-expanded');
+        expanded ? b.removeAttribute('data-expanded') : b.setAttribute('data-expanded', true);
+        tocbot.refresh(obj_merge(tocbot_default_config, {
+            collapseDepth: expanded ? 1 : DEPTH_MAX
+        }));
+        b.innerText = expanded ? 'Expand all' : 'Collapse all';
+    }
+
+    function go_top() {
+        window.scrollTo(0, 0);
+    }
+
+    function go_bottom() {
+        window.scrollTo(0, document.body.scrollHeight);
+    }
+
+    function obj_merge(target, source) {
+        for (var item in source) {
+            if (source.hasOwnProperty(item)) {
+                target[item] = source[item];
+            }
+        }
+        return target;
+    }
+</script>
+    
+
+    
+    <article class="post-wrap">
+        <header class="post-header">
+            <h1 class="post-title">The trip that happened (part - 8).....</h1>
+            
+                <div class="post-meta">
+                    
+                        Author: <a itemprop="author" rel="author" href="/">Kedar Mahale</a>
+                    
+
+                    
+                        <span class="post-time">
+                        Date: <a href="#">June 11, 2021&nbsp;&nbsp;11:23:11</a>
+                        </span>
+                    
+                    
+                        <span class="post-category">
+                    Category:
+                            
+                                <a href="/categories/Rajasthan-trip/">Rajasthan trip</a>
+                            
+                        </span>
+                    
+                </div>
+            
+        </header>
+
+        <div class="post-content">
+            <h3 id="Day-8-Udaipur-last-day-in-Rajasthan"><a href="#Day-8-Udaipur-last-day-in-Rajasthan" class="headerlink" title="Day 8, Udaipur - last day in Rajasthan"></a>Day 8, Udaipur - last day in Rajasthan</h3><p>After seven days, which did not seem a long time, this trip was coming to an end. There was a bit of sadness in everyone’s eyes. Also, we were missing our homes back in Goa. That day we met in the hotel lobby. Since we did not want to stay for the day in the hotel, we checked out and requested the hotel owner to look after our bags. Which he willingly agreed. </p>
+<p>We did not have much to do today, few of us wanted to visit an animal shelter and few wanted to visit Mewar fort if I am not wrong. Both of the locations turned out to be way too far from Udaipur, so we dropped the plan. So what could we do? We went out on a walk and we were jamming on songs, of which I remember this<a target="_blank" rel="noopener" href="https://youtu.be/zZasH6qkn8M"> KK’s classic</a> and <a target="_blank" rel="noopener" href="https://youtu.be/9PXsfrc420w"> Awari</a>. This was a lot of fun. We reached near <em>lake Pichola</em> as we were walking, still jamming on songs. We were chilling, taking pictures, <em>maja aaa raha thaa</em>. </p>
+<center><img src="/img/post9/jam.jpeg" alt=" " title=" " height = "400 px" width = "300 px" ></center>
+<center><em> </em></center>
+
+<p>Then we decided we should visit <em>Sahelion ki Bari</em>. <em>Sahelion ki bari</em> is a splendid garden with a water fountain right in the middle, many flowering trees and, a few white and red blossoms. This garden was pretty, we spent some time there chilling. It was mentioned there, this place was meant for the entertainment of the royals. I guess it must have served its purpose pretty well.</p>
+<center><img src="/img/post9/shb.jpeg" alt=" " title=" " height = "300 px" width = "500 px" ></center>
+<center><em> </em></center>
+
+<p>After this, we went to <em>Sajjangarh</em>. This place has a palace on the mountain top which is called <em>Sajjangarh monsoon palace</em>. Before, you climb the mountain (there are special vehicles which visit there), there is a zoo. HP, HH, and UU wanted to explore the <em>Monsoon palace</em>, so they took the tickets and went there. The rest of us visited the zoo. Our main motive was to chill. We saw only a few animals there, and after a while we were bored. Turns out that the zoo was too big and also we were not interested. We sat on a bench and everyone got busy with their phones, <strong>except me</strong>. It is obvious, I don’t get any calls also I wasn’t carrying earphones. So I just had to look around and somehow pass my time.</p>
+<p>HP, HH, and UU returned by noon, till then we were waiting for them. After having lunch, we visited the market again. I had to do some shopping. It was almost evening by the time we were done. We came across a shop which was selling <em>samosas</em>. <em>Samosa pyaar hai!</em>(read that again!). The <em>samosa</em> there was just 5 Rs. The last time I bought a samosa for that price, I was in school. Also, it tasted very nice. Approved by Mi. As we were walking down the street, we came across another shop, where a guy was frying <em>gulab jamuns</em> in a <em>kadhai</em> which seemed like a pond of <em>gulab jamuns</em>. </p>
+<center><img src="/img/post9/samosa.jpeg" alt=" " title=" " height = "400 px" width = "300 px" ></center>
+<center><em> </em></center>
+<center><img src="/img/post9/gj.jpeg" alt=" " title=" " height = "300 px" width = "500 px" ></center>
+<center><em> The legends who don't need an intro </em></center>
+
+<p>It was dinner time and we had a train to catch at 10:30 p.m. for Mumbai. Mi believed that we should eat in Dominos, while few others wanted to eat at McD. Turns out that McD is a bit far, so we went to Dominos. This was “the” pizza I ever had. It tasted nothing different than bread on butter. <em>Paisa barbaad!</em>. We picked up our bags from the hotel, where we had left them. It was almost time for us to leave Udaipur and Rajasthan as well.</p>
+<p>A countless number of trips get planned among people, but how many of them make it to reality? One such trip which happened was coming to an end. Exploring new places with your favorite people is a different kind of experience filled with fun, joy, lots of learning, and lots more. </p>
+<p>We reached the railway station where I saw two cute fluffy puppies playing. I wanted to pack them along in my bag. It was almost time for us to leave. Luckily, some people swapped seats with us and we all were able to sit in the same compartment. We were taking along lots of unforgettable memories. I look forward to going on more trips with this group again!</p>
+<h3 id="Day-9-Mumbai"><a href="#Day-9-Mumbai" class="headerlink" title="Day 9, Mumbai"></a>Day 9, Mumbai</h3><p>The next day by noon, we were in Bandra. The climate suddenly changed around us. It used to be very cold in Rajasthan, which now turned to a coastal climate similar to Goa. There was no need for sweaters and body moisturizers. Train for Goa was scheduled at 09:00 p.m. </p>
+<p>SJ, Mi, MT separated from us, so now it was only six of us. From Bandra, we took a local for CST. The experience of traveling in Mumbai local has always been fascinating for me. It was afternoon time, so the crowd was comparatively less. We handed our bags in the cloakroom and went to explore Mumbai. </p>
+<p>We visited fashion street, khao galli, and Marine Drive. We met a friend who was then in Mumbai. It was almost evening, As it gets dark, Marine drive gets prettier. We went to <em>Rustom</em>, this is an ice cream shop near Marine drive, where you get ice cream sandwiches. The flavors you will see there are something which you might have never heard of before. We had our dinner in Burger king and walked around the streets of Mumbai till it was time for us to leave. </p>
+<p>We reached the railway station and waited for a while till the train left. This train was so crowded, people were even sleeping on the floor (to do some cost-cutting, we were traveling in sleeper class). The next day we arrived in Goa, home-sweet-home. After coming back to your house in a few days, you appreciate things better. The trip had come to an end!</p>
+<p>Here is a list of all the places that we visited.</p>
+<ol>
+<li>Jodhpur<br> a. Umaid bhavan<br> b. Toorji ka jhalra<br> c. Jaswant thada<br> d. Mandore gardens<br> e. Mehrangarh fort</li>
+<li>Jaipur<br> a. Hawa mahal<br> b. Birla mandir<br> c. Albert hall<br> d. Amer fort<br> e. Nahargarh fort<br> f. Lakshmi mishtan bhandar</li>
+<li>Ajmer<br> a. Pushkar lake<br> b. Dargah</li>
+<li>Udaipur<br> a. Pichola lake<br> b. City palace<br> c. The artist<br> d. Bagore ki haweli<br> e. Rooftop cafe<br> f. Saheliyon ki bari<br> g. Sajjangarh</li>
+<li>Mumbai<br> a. Khao galli<br> b. Fashion street<br> c. Rustom<br> d. Marine drive</li>
+</ol>
+<p>Consider giving me a feedback or anything that you would like to share by writing to me <a href="mailto:kedarmahale1@gmail.com">here</a>. I would appreciate your valuable feedback! This series has come to an end, stay tuned I’ll come back with more! Till then, you could read <a href="https://kedarmahale.github.io/blog/2021/05/09/trip-that-happened">this </a> series again?</p>
+
+        </div>
+
+        
+            <section class="post-copyright">
+                
+                    <p class="copyright-item">
+                        <span>Author:</span>
+                        <span>Kedar Mahale</span>
+                    </p>
+                
+                
+                    <p class="copyright-item">
+                        <span>Permalink:</span>
+                        <span><a href="https://kedarmahale.github.io/2021/06/11/The-trip-that-happened-part-8/">https://kedarmahale.github.io/2021/06/11/The-trip-that-happened-part-8/</a></span>
+                    </p>
+                
+                
+                    <p class="copyright-item">
+                        <span>License:</span>
+                        <span>Copyright (c) 2019 <a target="_blank" rel="noopener" href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE</span>
+                    </p>
+                
+                
+                     <p class="copyright-item">
+                         <span>Slogan:</span>
+                         <span>Do you believe in <strong>DESTINY</strong>?</span>
+                     </p>
+                
+
+            </section>
+        
+        <section class="post-tags">
+            <div>
+                <span>Tag(s):</span>
+                <span class="tag">
+                    
+                    
+                        <a href="/tags/Trips/"># Trips</a>
+                    
+                        
+                </span>
+            </div>
+            <div>
+                <a href="javascript:window.history.back();">back</a>
+                <span>· </span>
+                <a href="/">home</a>
+            </div>
+        </section>
+        <section class="post-nav">
+            
+                <a class="prev" rel="prev" href="/2022/01/09/Breaking-the-virginity-my-first-flight/">Breaking the virginity: my first flight</a>
+            
+            
+            <a class="next" rel="next" href="/2021/06/07/The-trip-that-happened-part-7/">The trip that happened (part - 7).....</a>
+            
+        </section>
+
+
+    </article>
+</div>
+
+            </div>
+            <footer id="footer" class="footer">
+    <div class="copyright">
+        <span>© Kedar Mahale | Powered by <a href="https://hexo.io" target="_blank">Hexo</a> & <a href="https://github.com/Siricee/hexo-theme-Chic" target="_blank">Chic</a></span>
+    </div>
+</footer>
+
+    </div>
+</body>
+
+</html>
