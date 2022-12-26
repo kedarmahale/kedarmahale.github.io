@@ -1,4 +1,4 @@
 [submodule "Chic"]
     path = themes/Chic
-	url = https://github.com/Siricee/hexo-theme-Chic
+	url = https://github.com/kedarmahale/hexo-theme-Chic
 	branch = master
