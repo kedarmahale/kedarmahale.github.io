@@ -1,5 +1,5 @@
 ---
-title: 'Set in stone: a trip to hampi'
+title: 'Set in stone: a trip to Hampi'
 date: 2022-10-05 11:42:08
 tags: Trips
 category: Hampi trip
